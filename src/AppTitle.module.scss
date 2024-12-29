@@ -16,7 +16,7 @@
 
       .shadow {
         transform: scale(1, -1);
-        color: #999;
+        color: var(--dx-title-shadow);
         user-select: none;
       }
     }
@@ -25,14 +25,11 @@
   .overlay {
     position: absolute;
     width: 100%;
-    height: 40px;
+    top: 60px;
+    left: 0;
+    height: 30px;
     z-index: 100;
-
-    background: rgb(255, 255, 255);
-    background: linear-gradient(
-                    0deg,
-                    #1e2129ff 0%,
-                    #1e212900 100%
-    );
+    background: var(--dx-title-overlay);
   }
 }
+

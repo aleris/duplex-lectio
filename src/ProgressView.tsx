@@ -15,7 +15,7 @@ export function ProgressView({ progress }: Props) {
     </span>
     <span> </span>
     <span className={classes.readCount}>
-      <span>({progress.count} / {progress.total})</span>
+      <span>[ {progress.count} / {progress.total} ]</span>
     </span>
   </span>
 }

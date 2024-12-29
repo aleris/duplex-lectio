@@ -1,13 +1,14 @@
 @use './vars';
 
 .toolbar {
-  background: var(--dx-bg-color--dark);
+  background: var(--dx-bg-color);
   position: fixed;
   bottom: 0;
   width: 100vw;
   display: flex;
   align-items: center;
-  border-top: 1px solid var(--dx-bg-color--lighter);
+  border-top: 1px solid var(--dx-bg-color--separator);
+  border-bottom: 1px solid var(--dx-bg-color--separator);
 
   .buttons {
     display: flex;

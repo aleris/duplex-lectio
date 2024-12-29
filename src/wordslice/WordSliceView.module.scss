@@ -11,12 +11,13 @@
 .text {
   display: inline-block;
   font-size: 1.1em;
+  line-height: 2rem;
 }
 
 .translation {
   display: inline-block;
   font-size: 0.9em;
-  padding: 0.25rem 0 0.75rem 0;
+  padding: 0.1rem 0 0.7rem 0;
   color: var(--dx-fg-color--dimmed);
   user-select: none;
 }

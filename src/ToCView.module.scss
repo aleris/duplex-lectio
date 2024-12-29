@@ -5,15 +5,16 @@
     display: flex;
     justify-content: space-between;
     padding: 8px;
-    border-bottom: 1px solid var(--dx-bg-color--lighter);
+    border-bottom: 1px solid var(--dx-bg-color--separator);
 
     .progress {
-
+      font-weight: 700;
     }
 
     .closeButton {
       color: var(--dx-fg-color--dimmed);
       cursor: pointer;
+      margin-right: 4px;
 
       &:hover {
         color: var(--dx-fg-accent-color);

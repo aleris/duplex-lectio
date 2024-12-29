@@ -1,17 +1,16 @@
 @use '../vars';
 
 .button {
-  padding: 8px 8px 6px 8px;
-  background: linear-gradient(0deg, var(--dx-bg-color--dark), var(--dx-bg-color--darker));
+  padding: 8px 12px;
   border-radius: 4px;
-  box-shadow: 0 1px 2px 2px var(--dx-bg-color--darker), 0 0 2px 2px var(--dx-bg-shadow-color);
-  border: none;
+  background: none;
+  border: 1px solid var(--dx-bg-color--separator);
   display: flex;
   cursor: pointer;
   color: var(--dx-fg-color--dimmed);
 
   &:hover {
-    color: var(--dx-fg-accent-color);
+    color: var(--dx-fg-color);
   }
 
   span.text {

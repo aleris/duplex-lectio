@@ -2,6 +2,8 @@
 
 .pushButton {
   border-radius: 4px;
+  background: none;
+  border: 1px solid var(--dx-bg-color--highlight);
   transition: 0.2s;
 
   input.control {
@@ -13,7 +15,7 @@
 
   span.content {
     display: flex;
-    padding: 8px 8px 6px 8px;
+    padding: 8px 12px;
     border-radius: 4px;
     user-select: none;
 
@@ -26,34 +28,30 @@
   }
 
   input.control:checked + span.content {
-    background: linear-gradient(0deg, var(--dx-bg-color--light), var(--dx-bg-color));
-    padding-top: 8px;
-    padding-bottom: 2px;
-    box-shadow: 0 -2px 2px 2px var(--dx-bg-color--darker), 0 0 2px 2px var(--dx-bg-shadow-color);
+    background: var(--dx-bg-color--highlight);
   }
 
   input.control:focus + span.content {
-    outline: var(--dx-fg-primary-color) solid 2px;
+    outline: var(--dx-fg-accent-color) solid 1px;
   }
 
   &.enabled {
-    background: linear-gradient(0deg, var(--dx-bg-color--dark), var(--dx-bg-color--darker));
     border-radius: 4px;
-    box-shadow: 0 2px 2px 2px var(--dx-bg-color--darker), 0 0 2px 2px var(--dx-bg-shadow-color);
+    border-color: var(--dx-bg-color--separator);
     color: var(--dx-fg-color--dimmed);
+
+    &:hover {
+      color: var(--dx-fg-color);
+    }
 
     span.content {
       cursor: pointer;
-
-      &:hover {
-        color: var(--dx-fg-accent-color);
-      }
     }
   }
 
   &.disabled {
-    box-shadow: 0 2px 2px 2px var(--dx-bg-color), 0 0 2px 2px var(--dx-bg-color--light);
-    color: var(--dx-bg-color--lighter);
+    color: var(--dx-bg-color--separator);
+    border-color: var(--dx-bg-color);
   }
 }
 
