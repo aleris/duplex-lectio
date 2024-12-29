@@ -1,14 +1,30 @@
+# Duplex Lectio
+
+Duplex Lectio is a web app to read Latin texts with inline translations.
+
+[Open the App](https://adi.earth/apps/duplex)
+
+
+## Dictionaries and Text Sources
+
 https://alpheios.net/
+
 https://github.com/biblissima/collatinus
+
 https://www.saxa-loquuntur.nl/dictionaries--encyclopaedia/latin-dictionaries.html
+
 https://www.perseus.tufts.edu/hopper/
 
 https://la.wikisource.org/wiki/Easy_Latin_Stories/Part_I/I
 
-
 https://latin-words.com/
+
 https://alatius.com/ls/
+
 https://alatius.com/ls/index.php?met=link&ord=regem
+
+
+## Notes
 
 Translate from latin to english like in a translated book (without any additional explanations, just the translation): 5.—Interim nautae Corinthum advenerunt. A Periandro interrogati sunt de Arione. Turpissime mentiti sunt omnes. Subito Arion apparuit cum eodem ornatu. Attoniti nautae scelus confitentur. A rege Periandro omnes interfecti sunt, et multum pecuniae Arioni datum est.
 
