@@ -1,0 +1,89 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "XIX.— TIT FOR TAT.",
+        "lat": "XIX.—PAR PRO PARI."
+      },
+      "words": [
+        ["PAR", "TIT"],
+        ["PRO", "FOR"],
+        ["PARI", "TAT"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "88.— Scipio Nasica Ennio poeta amicissimo utebatur. Olim ad eum venit, et ad portam de eo quaesivit: ministra autem inquit: ‘Ennius domi non est.’ Videbat autem Ennium Nasica: nihil tamen dixit, sed domum reversus est. Paucis post diebus ad Nasicam venit Ennius. Huic ipse Nasica exclamavit, ‘Non sum domi’ Tum Ennius: ‘Quid? nonne cognosco vocem tuam?’ Nasica autem respondit: ‘Homo es impudens; ego enim ministrae tuae credidi: tu non mihi credis ipsi.’",
+        "eng": "88.— Scipio Nasica used to frequent the very friendly poet Ennius. One day he came to him and asked at the door for him: the servant, however, said: ‘Ennius is not at home.’ But Nasica saw Ennius: yet he said nothing, but returned home. A few days later Ennius came to Nasica. Nasica himself exclaimed to him, ‘I am not at home’ Then Ennius: ‘What? Do I not recognize your voice?’ Nasica, however, replied: ‘You are shameless; for I believed your servant: you do not believe me.’"
+      },
+      "words": [
+        ["Scipio", "Scipio"],
+        ["Nasica", "Nasica"],
+        ["Ennio", "Ennius"],
+        ["poeta", "poet"],
+        ["amicissimo", "very friendly"],
+        ["utebatur", "frequented"],
+        ["Olim", "One day"],
+        ["ad", "to"],
+        ["eum", "him"],
+        ["venit", "came"],
+        ["et", "and"],
+        ["portam", "door"],
+        ["de", "for"],
+        ["eo", "him"],
+        ["quaesivit", "asked"],
+        ["ministra", "servant"],
+        ["autem", "however"],
+        ["inquit", "said"],
+        ["Ennius", "Ennius"],
+        ["domi", "at home"],
+        ["non", "not"],
+        ["est", "is"],
+        ["Videbat", "saw"],
+        ["Nasica", "Nasica"],
+        ["nihil", "nothing"],
+        ["tamen", "yet"],
+        ["dixit", "said"],
+        ["sed", "but"],
+        ["domum", "home"],
+        ["reversus", "returned"],
+        ["est", "is"],
+        ["Paucis", "Few"],
+        ["post", "after"],
+        ["diebus", "days"],
+        ["ad", "to"],
+        ["Nasicam", "Nasica"],
+        ["venit", "came"],
+        ["Ennius", "Ennius"],
+        ["Huic", "to him"],
+        ["ipse", "himself"],
+        ["Nasica", "Nasica"],
+        ["exclamavit", "exclaimed"],
+        ["Non", "not"],
+        ["sum", "am"],
+        ["domi", "home"],
+        ["Tum", "Then"],
+        ["Ennius", "Ennius"],
+        ["Quid", "What"],
+        ["nonne", "do not"],
+        ["cognosco", "recognize"],
+        ["vocem", "voice"],
+        ["tuam", "your"],
+        ["autem", "however"],
+        ["respondit", "replied"],
+        ["Homo", "You are"],
+        ["es", "are"],
+        ["impudens", "shameless"],
+        ["ego", "I"],
+        ["enim", "for"],
+        ["ministrae", "servant"],
+        ["tuae", "your"],
+        ["credidi", "believed"],
+        ["tu", "you"],
+        ["mihi", "me"],
+        ["credens", "believe"],
+        ["ipsi", "myself"]
+      ]
+    }
+  ]
+}

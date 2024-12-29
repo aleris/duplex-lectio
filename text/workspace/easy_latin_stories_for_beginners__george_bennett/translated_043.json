@@ -1,0 +1,86 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "V.— A HAIRBREADTH ESCAPE.",
+        "lat": "V.— PERICULUM EFFUGIS."
+      },
+      "words": [
+        ["PERICULUM", "ESCAPE"],
+        ["EFFUGIS", "HAIRBREADTH"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "153.— Olim Sandoces quidam urbi Cymae praefectus erat. Hunc Darius rex, quum invenisset, eum, quum iudex fuisset, accepta pecunia iniustam sententiam pronuntiasse, in crucem agi iussit. Et iam suspensus erat; quum Darius, rationem secum iniens rerum ab illo gestarum, reperit multo plura esse eius merita in regiam domum quam malefacta. Quod postquam reperit, agnoscens properantius a se quam sapientius actum esse, solvi hominem iussit. Ita supplicium a Dario decretum effugit, superstesque fuit.",
+        "eng": "153.— Once upon a time, Sandoces was governor of the city Cyme. When King Darius found that he had given an unjust judgment after receiving money when he was a judge, he ordered him to be crucified. And he was already suspended; when Darius, considering the deeds done by him, found that his merits to the royal house were much greater than his crimes. After discovering this, acknowledging that he had acted more hastily than wisely, he ordered the man's release. Thus he escaped the punishment decreed by Darius and survived."
+      },
+      "words": [
+        ["Olim", "Once"],
+        ["Sandoces", "Sandoces"],
+        ["quidam", "a certain"],
+        ["urbi", "city"],
+        ["Cymae", "Cyme"],
+        ["praefectus", "governor"],
+        ["erat", "was"],
+        ["Hunc", "This"],
+        ["Darius", "Darius"],
+        ["rex", "king"],
+        ["quum", "when"],
+        ["invenisset", "found"],
+        ["eum", "him"],
+        ["iudex", "judge"],
+        ["fuisset", "had been"],
+        ["accepta", "received"],
+        ["pecunia", "money"],
+        ["iniustam", "unjust"],
+        ["sententiam", "judgment"],
+        ["pronuntiasse", "to have pronounced"],
+        ["in", "to"],
+        ["crucem", "cross"],
+        ["agi", "to be led"],
+        ["iussit", "ordered"],
+        ["Et", "And"],
+        ["iam", "already"],
+        ["suspensus", "suspended"],
+        ["erat", "was"],
+        ["rationem", "consideration"],
+        ["secum", "with himself"],
+        ["iniens", "beginning"],
+        ["rerum", "deeds"],
+        ["ab", "by"],
+        ["illo", "him"],
+        ["gestarum", "done"],
+        ["reperit", "found"],
+        ["multo", "much"],
+        ["plura", "more"],
+        ["esse", "to be"],
+        ["eius", "his"],
+        ["merita", "merits"],
+        ["in", "to"],
+        ["regiam", "royal"],
+        ["domum", "house"],
+        ["quam", "than"],
+        ["malefacta", "crimes"],
+        ["Quod", "which"],
+        ["postquam", "after"],
+        ["agnoscens", "acknowledging"],
+        ["properantius", "more hastily"],
+        ["a", "by"],
+        ["se", "himself"],
+        ["quam", "than"],
+        ["sapientius", "wisely"],
+        ["actum", "acted"],
+        ["esse", "to be"],
+        ["solvi", "to release"],
+        ["hominem", "man"],
+        ["iussit", "ordered"],
+        ["Ita", "Thus"],
+        ["supplicium", "punishment"],
+        ["decretum", "decreed"],
+        ["effugit", "escaped"],
+        ["superstesque", "survived"]
+      ]
+    }
+  ]
+}

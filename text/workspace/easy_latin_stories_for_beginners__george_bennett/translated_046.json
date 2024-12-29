@@ -1,0 +1,76 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "VIII.— A THRACIAN SUTTEE.",
+        "lat": "VIII.— SUTTI THRACICA."
+      },
+      "words": [
+        ["SUTTI", "SUTTEE"],
+        ["THRACICA", "THRACIAN"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "165.— Apud Thracas hic mos instituitur. Uxores quisque vir plures habet. Mortuo autem viro, magna fit inter uxores disceptatio, quaenam ex uxoribus carissima fuerit marito. Deinde, quae talis esse iudicata est, illa, a viris et mulieribus collaudata, iugulatur super tumulo ab propinquis: tum una cum marito sepelitur Reliquae vero magnae sibi calamitati id esse arbitrantur.",
+        "eng": "165.— Among the Thracians, this custom is established. Each man has several wives. When a man dies, a great dispute arises among the wives as to which of them was most beloved by the husband. Then, the one judged to be so, praised by the men and women, is sacrificed over the grave by the relatives: then she is buried with the husband. The others think it a great calamity for themselves."
+      },
+      "words": [
+        ["Apud", "Among"],
+        ["Thracas", "Thracians"],
+        ["hic", "this"],
+        ["mos", "custom"],
+        ["instituitur", "is established"],
+        ["Uxores", "Wives"],
+        ["quisque", "each"],
+        ["vir", "man"],
+        ["plures", "several"],
+        ["habet", "has"],
+        ["Mortuo", "When dead"],
+        ["autem", "however"],
+        ["viro", "man"],
+        ["magna", "great"],
+        ["fit", "arises"],
+        ["inter", "among"],
+        ["uxores", "wives"],
+        ["disceptatio", "dispute"],
+        ["quaenam", "which"],
+        ["ex", "of"],
+        ["uxoribus", "wives"],
+        ["carissima", "most beloved"],
+        ["fuerit", "was"],
+        ["marito", "husband"],
+        ["Deinde", "Then"],
+        ["quae", "the one"],
+        ["talis", "such"],
+        ["esse", "to be"],
+        ["iudicata", "judged"],
+        ["est", "is"],
+        ["illa", "that one"],
+        ["a", "by"],
+        ["viris", "men"],
+        ["et", "and"],
+        ["mulieribus", "women"],
+        ["collaudata", "praised"],
+        ["iugulatur", "is sacrificed"],
+        ["super", "over"],
+        ["tumulo", "grave"],
+        ["ab", "by"],
+        ["propinquis", "relatives"],
+        ["tum", "then"],
+        ["una", "with"],
+        ["cum", "with"],
+        ["marito", "husband"],
+        ["sepelitur", "is buried"],
+        ["Reliquae", "The others"],
+        ["vero", "however"],
+        ["magnae", "great"],
+        ["sibi", "for themselves"],
+        ["calamitati", "calamity"],
+        ["id", "it"],
+        ["esse", "to be"],
+        ["arbitrantur", "think"]
+      ]
+    }
+  ]
+}

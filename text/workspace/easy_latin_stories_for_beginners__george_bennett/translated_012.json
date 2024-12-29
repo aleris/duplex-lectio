@@ -1,0 +1,75 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "XII.— SPARTAN MEALS.",
+        "lat": "XII.— CONVIVIA SPARTANA."
+      },
+      "words": [
+        ["CONVIVIA", "MEALS"],
+        ["SPARTANA", "SPARTAN"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "68.— Spartani in publico loco coenabant. Singulis mensis plures homines utebantur. Singulis mensibus, frumentum, vinum, fructus, lac, quisque afferebat. Diu in publico coenare coacti sunt. Olim rex ipse Agis, bene gesto bello reversus, cum uxore domi coenare voluit. Ne tum quidem hoc passi sunt Ephori. Ob hanc caussam iratus rex sacra post victoriam solita facere noluit; itaque pecunia eum multaverunt.",
+        "eng": "68.— The Spartans dined in a public place. Several people used a single table. Each month, everyone brought grain, wine, fruits, milk. They were forced to dine in public for a long time. Once King Agis himself, having returned from a well-conducted war, wished to dine at home with his wife. Not even then did the Ephors allow this. For this reason, the angry king refused to perform the customary sacrifices after victory; therefore they fined him."
+      },
+      "words": [
+        ["Spartani", "Spartans"],
+        ["in", "in"],
+        ["publico", "public"],
+        ["loco", "place"],
+        ["coenabant", "dined"],
+        ["Singulis", "Single"],
+        ["mensis", "tables"],
+        ["plures", "several"],
+        ["homines", "people"],
+        ["utebantur", "used"],
+        ["mensibus", "months"],
+        ["frumentum", "grain"],
+        ["vinum", "wine"],
+        ["fructus", "fruits"],
+        ["lac", "milk"],
+        ["quisque", "everyone"],
+        ["afferebat", "brought"],
+        ["Diu", "For a long time"],
+        ["coenare", "dine"],
+        ["coacti", "forced"],
+        ["sunt", "were"],
+        ["Olim", "Once"],
+        ["rex", "king"],
+        ["ipse", "himself"],
+        ["Agis", "Agis"],
+        ["bene", "well"],
+        ["gesto", "conducted"],
+        ["bello", "war"],
+        ["reversus", "returned"],
+        ["cum", "with"],
+        ["uxore", "wife"],
+        ["domi", "at home"],
+        ["voluit", "wished"],
+        ["Ne", "Not"],
+        ["tum", "then"],
+        ["quidem", "indeed"],
+        ["hoc", "this"],
+        ["passi", "allowed"],
+        ["Ephori", "Ephors"],
+        ["Ob", "For"],
+        ["hanc", "this"],
+        ["caussam", "reason"],
+        ["iratus", "angry"],
+        ["rex", "king"],
+        ["sacra", "sacrifices"],
+        ["post", "after"],
+        ["victoriam", "victory"],
+        ["solita", "customary"],
+        ["facere", "perform"],
+        ["noluit", "refused"],
+        ["itaque", "therefore"],
+        ["pecunia", "money"],
+        ["multaverunt", "fined"]
+      ]
+    }
+  ]
+}

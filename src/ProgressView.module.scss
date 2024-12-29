@@ -1,0 +1,13 @@
+.progress {
+  font-size: 0.9rem;
+  margin: 0 0 8px 0;
+
+  .readPercent {
+    color: var(--dx-fg-succes-color);
+  }
+
+  .readCount {
+    font-size: 0.7rem;
+    color: var(--dx-fg-color--dimmed);
+  }
+}

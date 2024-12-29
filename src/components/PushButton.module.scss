@@ -1,0 +1,66 @@
+@use '../vars';
+
+.pushButton {
+  border-radius: 4px;
+  transition: 0.2s;
+
+  input.control {
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+  }
+
+  span.content {
+    display: flex;
+    padding: 8px 8px 6px 8px;
+    border-radius: 4px;
+    user-select: none;
+
+    span.text {
+      margin-left: 6px;
+      font-size: 0.7rem;
+      font-weight: 600;
+      text-transform: uppercase;
+    }
+  }
+
+  input.control:checked + span.content {
+    background: linear-gradient(0deg, var(--dx-bg-color--light), var(--dx-bg-color));
+    padding-top: 8px;
+    padding-bottom: 2px;
+    box-shadow: 0 -2px 2px 2px var(--dx-bg-color--darker), 0 0 2px 2px var(--dx-bg-shadow-color);
+  }
+
+  input.control:focus + span.content {
+    outline: var(--dx-fg-primary-color) solid 2px;
+  }
+
+  &.enabled {
+    background: linear-gradient(0deg, var(--dx-bg-color--dark), var(--dx-bg-color--darker));
+    border-radius: 4px;
+    box-shadow: 0 2px 2px 2px var(--dx-bg-color--darker), 0 0 2px 2px var(--dx-bg-shadow-color);
+    color: var(--dx-fg-color--dimmed);
+
+    span.content {
+      cursor: pointer;
+
+      &:hover {
+        color: var(--dx-fg-accent-color);
+      }
+    }
+  }
+
+  &.disabled {
+    box-shadow: 0 2px 2px 2px var(--dx-bg-color), 0 0 2px 2px var(--dx-bg-color--light);
+    color: var(--dx-bg-color--lighter);
+  }
+}
+
+@media (max-width: vars.$media-small) {
+  .pushButton {
+    span.text {
+      display: none;
+    }
+  }
+}

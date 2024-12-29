@@ -1,0 +1,64 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "IV.— THE BODY-GUARD OF XERXES.",
+        "lat": "IV.— CUSTODES CORPORIS XERXIS."
+      },
+      "words": [
+        ["CUSTODES", "BODY-GUARD"],
+        ["CORPORIS", "OF THE"],
+        ["XERXIS", "XERXES"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "102.— Xerxem, Persarum regem, sequebantur mille pedites, fortissimi nobilissimique Persarum, erectas lanceas tenentes: deinde alii mille equites ex Persis selecti: et post equites, peditum decem millia e reliquis Persis selectorum: quorum mille in hastis, pro imis cuspidibus, aurea habebant mala punica, et reliquos includebant; novies mille vero, qui intra hos erant, argentea mala punica habebant. Aurea vero mala punica habebant etiam illi, qui lanceas in terram conversas tenebant; et mala aurea hi, qui Xerxem proxime sequebantur.",
+        "eng": "102.— Xerxes, the king of the Persians, was followed by a thousand foot soldiers, the bravest and noblest of the Persians, holding upright spears: then a thousand horsemen selected from the Persians: and after the horsemen, ten thousand foot soldiers selected from the remaining Persians: of whom a thousand held spears with gold pomegranates at the lower ends, enclosing the rest; and nine thousand within them, had silver pomegranates. Those who held their spears turned to the ground also had gold pomegranates; and those who followed closest to Xerxes also had gold pomegranates."
+      },
+      "words": [
+        ["Xerxem", "Xerxes"],
+        ["Persarum", "of the Persians"],
+        ["regem", "king"],
+        ["sequebantur", "was followed"],
+        ["mille", "a thousand"],
+        ["pedites", "foot soldiers"],
+        ["fortissimi", "bravest"],
+        ["nobilissimique", "noblest"],
+        ["erectas", "upright"],
+        ["lanceas", "spears"],
+        ["tenentes", "holding"],
+        ["deinde", "then"],
+        ["alii", "other"],
+        ["equites", "horsemen"],
+        ["ex", "from"],
+        ["selecti", "selected"],
+        ["post", "after"],
+        ["peditum", "foot soldiers"],
+        ["decem", "ten"],
+        ["millia", "thousand"],
+        ["reliquis", "remaining"],
+        ["selectorum", "selected"],
+        ["quorum", "of whom"],
+        ["hastis", "spears"],
+        ["pro", "with"],
+        ["imis", "lower"],
+        ["cuspidibus", "ends"],
+        ["aurea", "gold"],
+        ["habebant", "held"],
+        ["mala", "pomegranates"],
+        ["punica", "pomegranates"],
+        ["reliquos", "rest"],
+        ["includebant", "enclosing"],
+        ["novies", "nine"],
+        ["intra", "within"],
+        ["hos", "them"],
+        ["argentea", "silver"],
+        ["ille", "those"],
+        ["conversas", "turned"],
+        ["proxime", "closest"],
+        ["sequebantur", "followed"]
+      ]
+    }
+  ]
+}

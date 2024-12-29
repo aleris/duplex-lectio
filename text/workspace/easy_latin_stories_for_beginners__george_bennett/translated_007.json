@@ -1,0 +1,75 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "VII.— A CROCODILE HUNT.",
+        "lat": "VII.— VENATIO CROCODILORUM."
+      },
+      "words": [
+        ["VENATIO", "HUNT"],
+        ["CROCODILORUM", "OF CROCODILES"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "29.— Venatio crocodilorum multis atque variis modis instituitur. Suis tergus, pro esca hamo insertum, in medium flumen demittit venator. Ipse in ripa fluminis vivum porcellum ferit. Crocodilus, audita voce, ad sonum accurrit. In tergus vero suis incidens, illud deglutit, moxque in terram attrahitur. In terra extracti crocodili oculos luto oblinit venator. Tum facillime interficitur.",
+        "eng": "29.— A crocodile hunt is organized in many different ways. The hunter inserts the pig's back, as bait on a hook, into the middle of the river. He himself strikes a live piglet on the riverbank. The crocodile, having heard the noise, rushes to the sound. However, biting into the pig's back, it swallows it and is soon dragged to the land. On land, the hunter smears the eyes of the caught crocodile with mud. Then it is killed very easily."
+      },
+      "words": [
+        ["Venatio", "Hunt"],
+        ["crocodilorum", "of crocodiles"],
+        ["multis", "many"],
+        ["atque", "and"],
+        ["variis", "different"],
+        ["modis", "ways"],
+        ["instituitur", "is organized"],
+        ["Suis", "Pig's"],
+        ["tergus", "back"],
+        ["pro", "as"],
+        ["esca", "bait"],
+        ["hamo", "hook"],
+        ["insertum", "inserted"],
+        ["in", "into"],
+        ["medium", "middle"],
+        ["flumen", "river"],
+        ["demittit", "inserts"],
+        ["venator", "hunter"],
+        ["Ipse", "He himself"],
+        ["in", "on"],
+        ["ripa", "bank"],
+        ["fluminis", "of the river"],
+        ["vivum", "live"],
+        ["porcellum", "piglet"],
+        ["ferit", "strikes"],
+        ["Crocodilus", "Crocodile"],
+        ["audita", "having heard"],
+        ["voce", "noise"],
+        ["ad", "to"],
+        ["sonum", "sound"],
+        ["accurrit", "rushes"],
+        ["In", "In"],
+        ["tergus", "back"],
+        ["vero", "however"],
+        ["suis", "of the pig"],
+        ["incidens", "biting"],
+        ["illud", "it"],
+        ["deglutit", "swallows"],
+        ["moxque", "and soon"],
+        ["in", "to"],
+        ["terram", "land"],
+        ["attrahitur", "is dragged"],
+        ["In", "On"],
+        ["terra", "land"],
+        ["extracti", "caught"],
+        ["crocodili", "crocodile"],
+        ["oculos", "eyes"],
+        ["luto", "with mud"],
+        ["oblinit", "smears"],
+        ["venator", "hunter"],
+        ["Tum", "Then"],
+        ["facillime", "very easily"],
+        ["interficitur", "is killed"]
+      ]
+    }
+  ]
+}

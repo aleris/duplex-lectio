@@ -1,0 +1,83 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "III.— OIL WELLS.",
+        "lat": "III.— PUTEI OLEI."
+      },
+      "words": [
+        ["PUTEI", "WELLS"],
+        ["OLEI", "OF OIL"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "101.— Sunt haud procul ab urbe Ardericca putei, qui tres diversas rerum species exhibent. Nam et asphaltus et sal et oleum ex illis hauriuntur, hoc modo. Hauriunt ope tollenonis, cui vas alligatum est; quod extulerunt e puteo, id in magnum vas infundunt; ex quo rursus in aliud receptaculum transvehitur, atque ita in triplicem formam convertitur. Et asphaltus quidem et sal concrescunt; oleum vero in vas colligunt: est autem illud nigrum, et gravem odorem spirat.",
+        "eng": "101.— There are wells near the city Ardericca, which produce three different types of substances. For asphalt, salt, and oil are drawn from them in this manner. They draw with the help of a crane, to which a vessel is attached; what they lift from the well, they pour into a large tank; from which it is transferred into another container, and thus it is converted into a threefold form. And indeed asphalt and salt solidify; but the oil is collected in a vessel: it is black, and emits a strong smell."
+      },
+      "words": [
+        ["Sunt", "There are"],
+        ["haud", "not"],
+        ["procul", "far"],
+        ["ab", "from"],
+        ["urbe", "city"],
+        ["Ardericca", "Ardericca"],
+        ["putei", "wells"],
+        ["qui", "which"],
+        ["tres", "three"],
+        ["diversas", "different"],
+        ["rerum", "of things"],
+        ["species", "types"],
+        ["exhibent", "produce"],
+        ["Nam", "For"],
+        ["et", "and"],
+        ["asphaltus", "asphalt"],
+        ["sal", "salt"],
+        ["oleum", "oil"],
+        ["ex", "from"],
+        ["illis", "them"],
+        ["hauriuntur", "are drawn"],
+        ["hoc", "this"],
+        ["modo", "manner"],
+        ["Hauriunt", "They draw"],
+        ["ope", "with the help"],
+        ["tollenonis", "of a crane"],
+        ["cui", "to which"],
+        ["vas", "vessel"],
+        ["alligatum", "attached"],
+        ["est", "is"],
+        ["quod", "what"],
+        ["extulerunt", "they lift"],
+        ["e", "from"],
+        ["puteo", "the well"],
+        ["id", "it"],
+        ["in", "into"],
+        ["magnum", "large"],
+        ["infundunt", "pour"],
+        ["ex", "from"],
+        ["quo", "which"],
+        ["rursus", "again"],
+        ["aliud", "another"],
+        ["receptaculum", "container"],
+        ["transvehitur", "is transferred"],
+        ["atque", "and"],
+        ["ita", "thus"],
+        ["triplicem", "threefold"],
+        ["formam", "form"],
+        ["convertitur", "is converted"],
+        ["Et", "And"],
+        ["quidem", "indeed"],
+        ["concrescunt", "solidify"],
+        ["oleam", "oil"],
+        ["vero", "but"],
+        ["colligunt", "collect"],
+        ["autem", "however"],
+        ["illud", "it"],
+        ["nigrum", "black"],
+        ["gravem", "strong"],
+        ["odorem", "smell"],
+        ["spirat", "emits"]
+      ]
+    }
+  ]
+}

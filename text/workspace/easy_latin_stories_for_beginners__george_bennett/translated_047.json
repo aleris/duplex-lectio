@@ -1,0 +1,67 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "IX.— A LAKE VILLAGE.",
+        "lat": "IX.— LACUSTRIS PAGUS."
+      },
+      "words": [
+        ["LACUSTRIS", "LAKE"],
+        ["PAGUS", "VILLAGE"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "166.— Lacum Prasiadem gens incolit tali modo. Stant in medio lacu tabulata, altis palis instrata, quae angustum habent ex continente aditum. Unusquisque vir super tabulatis illis tugurium habet, in quo vitam agit. Parvulos autem pueros puellasque funibus ex pede alligant, veriti ne imprudentes in aquam decidant.",
+        "eng": "166.— The people inhabit Lake Prasiades in this manner. Platforms stand in the middle of the lake, laid on high piles, which have a narrow entrance from the mainland. Each man has a hut on these platforms, in which he spends his life. However, they tie small boys and girls by the foot with ropes, fearing they may fall into the water unwisely."
+      },
+      "words": [
+        ["Lacum", "Lake"],
+        ["Prasiadem", "Prasiades"],
+        ["gens", "people"],
+        ["incolit", "inhabit"],
+        ["tali", "in this"],
+        ["modo", "manner"],
+        ["Stant", "stand"],
+        ["in", "in"],
+        ["medio", "middle"],
+        ["lacu", "lake"],
+        ["tabulata", "platforms"],
+        ["altis", "high"],
+        ["palis", "piles"],
+        ["instrata", "laid"],
+        ["quae", "which"],
+        ["angustum", "narrow"],
+        ["habent", "have"],
+        ["ex", "from"],
+        ["continente", "mainland"],
+        ["aditum", "entrance"],
+        ["Unusquisque", "Each"],
+        ["vir", "man"],
+        ["super", "on"],
+        ["tabulatis", "platforms"],
+        ["illis", "these"],
+        ["tugurium", "hut"],
+        ["habet", "has"],
+        ["in", "in"],
+        ["quo", "which"],
+        ["vitam", "life"],
+        ["agit", "spends"],
+        ["Parvulos", "small"],
+        ["autem", "however"],
+        ["pueros", "boys"],
+        ["puellasque", "and girls"],
+        ["funibus", "ropes"],
+        ["ex", "by"],
+        ["pede", "foot"],
+        ["alligant", "tie"],
+        ["veriti", "fearing"],
+        ["ne", "lest"],
+        ["imprudentes", "unwisely"],
+        ["in", "into"],
+        ["aquam", "water"],
+        ["decidant", "fall"]
+      ]
+    }
+  ]
+}

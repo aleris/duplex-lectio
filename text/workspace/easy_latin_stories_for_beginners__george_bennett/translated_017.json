@@ -1,0 +1,87 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "XVII.— THE BATTLE OF THE WHIPS.",
+        "lat": "XVII.— PUGNA FLAGELLORUM."
+      },
+      "words": [
+        ["PUGNA", "BATTLE"],
+        ["FLAGELLORUM", "OF THE WHIPS"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "86.— Olim servi contra Scythas seditione facta, aciem commisere. Diu pugnatum est. Tandem unus e Scythis talia dixit: ‘Quid tandem facimus, Scythae? Cum servis nostris pugnantes interficimur ipsi: his etiam interfectis, pauciores deinde habebimus. Itaque omissis hastis et sagittis, capiamus flagella, et in servos impetum faciamus: putant enim se nobis aequales et similes; sumptis vero flagellis, servitutem recordabuntur.’ His dictis paruerunt Scythae: servi autem flagella videntes, in fugam se recepere.",
+        "eng": "86.— Once upon a time, slaves, having started a rebellion against the Scythians, drew up a battle line. The fight was prolonged. Finally, one of the Scythians said the following: ‘What are we doing, Scythians? Fighting against our own slaves, we are being killed ourselves: even with them killed, we will have fewer anyway. So let us abandon spears and arrows, and take up whips, and make an attack on the slaves: for they consider themselves equal and similar to us; but once the whips are taken up, they will remember their servitude.’ The Scythians obeyed these words: but the slaves, seeing the whips, took flight."
+      },
+      "words": [
+        ["Olim", "Once upon a time"],
+        ["servi", "slaves"],
+        ["contra", "against"],
+        ["Scythas", "Scythians"],
+        ["seditione", "rebellion"],
+        ["facta", "having started"],
+        ["aciem", "battle line"],
+        ["commisere", "drew up"],
+        ["Diu", "Prolonged"],
+        ["pugnatum", "fight"],
+        ["est", "was"],
+        ["Tandem", "Finally"],
+        ["unus", "one"],
+        ["e", "of"],
+        ["Scythis", "Scythians"],
+        ["talia", "the following"],
+        ["dixit", "said"],
+        ["Quid", "What"],
+        ["tandem", "are we"],
+        ["facimus", "doing"],
+        ["Scythae", "Scythians"],
+        ["Cum", "Fighting"],
+        ["servis", "slaves"],
+        ["nostris", "our"],
+        ["pugnantes", "fighting"],
+        ["interficimur", "we are being killed"],
+        ["ipsi", "ourselves"],
+        ["his", "them"],
+        ["etiam", "even"],
+        ["interfectis", "killed"],
+        ["pauciores", "fewer"],
+        ["deinde", "then"],
+        ["habebimus", "we will have"],
+        ["Itaque", "So"],
+        ["omissis", "abandon"],
+        ["hastis", "spears"],
+        ["et", "and"],
+        ["sagittis", "arrows"],
+        ["capiamus", "let us take up"],
+        ["flagella", "whips"],
+        ["in", "and"],
+        ["impetum", "attack"],
+        ["faciamus", "make"],
+        ["putant", "consider"],
+        ["enim", "for"],
+        ["se", "themselves"],
+        ["nobis", "to us"],
+        ["aequales", "equal"],
+        ["et", "and"],
+        ["similes", "similar"],
+        ["sumptis", "taken up"],
+        ["vero", "but"],
+        ["flagellis", "whips"],
+        ["servitutem", "servitude"],
+        ["recordabuntur", "they will remember"],
+        ["His", "These"],
+        ["dictis", "words"],
+        ["paruerunt", "obeyed"],
+        ["Scythae", "Scythians"],
+        ["servi", "slaves"],
+        ["autem", "but"],
+        ["videntes", "seeing"],
+        ["in fugitam", "took flight"],
+        ["se", "themselves"],
+        ["recepere", "they took"]
+      ]
+    }
+  ]
+}

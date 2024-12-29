@@ -1,0 +1,64 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "XVI.— SPARTAN BREVITY.",
+        "lat": "XVI.— SPARTANICA BREVITAS."
+      },
+      "words": [
+        ["SPARTANICA", "SPARTAN"],
+        ["BREVITAS", "BREVITY"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "85.— Samii olim, a Polycrate expulsi, Spartam venerunt. Introducti apud Ephoros multa fecerunt verba, opem orantes. At illi responderunt: ‘Priora verba obliti sumus, posteriora non intelligimus.’ Post haec iterum introducti, saccum ferentes nihil aliud dixerunt, nisi haec verba: ‘Saccus frumento eget.’ His Spartani responderunt: ‘Nunc intelligimus: opem vobis praestabimus.’",
+        "eng": "85.— Once, the Samians, expelled by Polycrates, came to Sparta. Introduced to the Ephors, they made many words, begging for help. But they replied, 'We have forgotten the former words, we do not understand the latter.' After this, introduced again, carrying a sack, they said nothing else except these words: 'The sack needs grain.' To this the Spartans replied, 'Now we understand: we will provide you with help.'"
+      },
+      "words": [
+        ["Samii", "Samians"],
+        ["olim", "once"],
+        ["a", "by"],
+        ["Polycrate", "Polycrates"],
+        ["expulsi", "expelled"],
+        ["Spartam", "to Sparta"],
+        ["venerunt", "came"],
+        ["Introducti", "Introduced"],
+        ["apud", "to"],
+        ["Ephoros", "Ephors"],
+        ["multa", "many"],
+        ["fecerunt", "made"],
+        ["verba", "words"],
+        ["opem", "help"],
+        ["orantes", "begging"],
+        ["At", "But"],
+        ["illi", "they"],
+        ["responderunt", "replied"],
+        ["Priora", "former"],
+        ["obliti", "forgotten"],
+        ["sumus", "we are"],
+        ["posteriora", "latter"],
+        ["non", "not"],
+        ["intelligimus", "understand"],
+        ["Post", "After"],
+        ["haec", "this"],
+        ["iterum", "again"],
+        ["saccum", "sack"],
+        ["ferentes", "carrying"],
+        ["nihil", "nothing"],
+        ["aliud", "else"],
+        ["dixerunt", "said"],
+        ["nisi", "except"],
+        ["haec", "these"],
+        ["Saccus", "sack"],
+        ["frumento", "grain"],
+        ["eget", "needs"],
+        ["His", "to this"],
+        ["Spartani", "Spartans"],
+        ["Nunc", "Now"],
+        ["praestabimus", "will provide"],
+        ["vobis", "you"]
+      ]
+    }
+  ]
+}

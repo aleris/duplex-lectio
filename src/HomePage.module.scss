@@ -1,0 +1,30 @@
+@use './vars';
+
+.home {
+  display: flex;
+  flex-direction: column;
+  padding: 2rem;
+
+  section {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem;
+
+    h2 {
+
+    }
+
+
+  }
+
+  hr {
+    margin: 2rem 0;
+  }
+
+}
+
+@media (max-width: vars.$media-medium) {
+  .home {
+    padding: 0;
+  }
+}

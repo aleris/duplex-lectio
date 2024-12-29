@@ -1,0 +1,82 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "XI.— SAYINGS OF ARISTIPPUS.",
+        "lat": "XI.—DICTA ARISTIPPI."
+      },
+      "words": [
+        ["DICTA", "SAYINGS"],
+        ["ARISTIPPI", "OF ARISTIPPUS"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "67.— Olim Aristippo Corinthum iter faciente, ingens procella coorta est. Dixerat autem aliquis: ‘Nos nautae nihil timemus: vos vero philosophi omnia timetis.’ Contra Aristippus, ‘Non est mirum,’ inquit, ‘non enim similes animi peribunt.’ Quidam pro eodem caussam dixerat, eumque criminis absolverat. Tum Aristippum his verbis interrogavit : ‘Quidnam boni a Socrate percepisti?’ Ei philosophus respondit: ‘Haecce percepi: de me multa bona dixisti, et vera sunt.’",
+        "eng": "67.— Once, when Aristippus was making a journey to Corinth, a great storm arose. Someone had said: ‘We sailors fear nothing: but you philosophers fear everything.’ Aristippus replied, ‘It is not surprising,’ he said, ‘for not similar minds will perish.’ Someone had spoken in favor of him in a case and had acquitted him of the charge. Then he asked Aristippus in these words: ‘What good have you learned from Socrates?’ To him, the philosopher replied: ‘This I have learned: you said many good things about me, and they are true.’"
+      },
+      "words": [
+        ["Olim", "Once"],
+        ["Aristippo", "Aristippus"],
+        ["Corinthum", "to Corinth"],
+        ["iter", "journey"],
+        ["faciente", "making"],
+        ["ingens", "great"],
+        ["procella", "storm"],
+        ["coorta", "arose"],
+        ["est", "is"],
+        ["Dixerat", "Said"],
+        ["autem", "however"],
+        ["aliquis", "someone"],
+        ["Nos", "We"],
+        ["nautae", "sailors"],
+        ["nihil", "nothing"],
+        ["timemus", "fear"],
+        ["vos", "you"],
+        ["vero", "but"],
+        ["philosophi", "philosophers"],
+        ["omnia", "everything"],
+        ["timetis", "fear"],
+        ["Contra", "Against"],
+        ["Aristippus", "Aristippus"],
+        ["Non", "Not"],
+        ["est", "is"],
+        ["mirum", "surprising"],
+        ["inquit", "he said"],
+        ["enim", "for"],
+        ["similes", "similar"],
+        ["animi", "minds"],
+        ["peribunt", "will perish"],
+        ["Quidam", "Someone"],
+        ["pro", "in favor of"],
+        ["eodem", "same"],
+        ["caussam", "case"],
+        ["dixerat", "had spoken"],
+        ["eumque", "and him"],
+        ["criminis", "of the charge"],
+        ["absolverat", "had acquitted"],
+        ["Tum", "Then"],
+        ["his", "in these"],
+        ["verbis", "words"],
+        ["interrogavit", "asked"],
+        ["Quidnam", "What"],
+        ["boni", "good"],
+        ["a", "from"],
+        ["Socrate", "Socrates"],
+        ["percepisti", "have you learned"],
+        ["Ei", "To him"],
+        ["philosophus", "the philosopher"],
+        ["respondit", "replied"],
+        ["Haecce", "This"],
+        ["percepi", "I have learned"],
+        ["de", "about"],
+        ["me", "me"],
+        ["multa", "many"],
+        ["dixisti", "you said"],
+        ["et", "and"],
+        ["vera", "true"],
+        ["sunt", "are"]
+      ]
+    }
+  ]
+}

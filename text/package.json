@@ -1,0 +1,15 @@
+{
+  "name": "text",
+  "module": "slice.ts",
+  "type": "module",
+  "devDependencies": {
+    "bun-types": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "dependencies": {
+    "@azure/openai": "^2.0.0",
+    "openai": "^4.76.1"
+  }
+}

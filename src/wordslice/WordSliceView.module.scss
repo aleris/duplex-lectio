@@ -1,0 +1,26 @@
+.word {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  &:first-child {
+    align-items: flex-start;
+  }
+}
+
+.text {
+  display: inline-block;
+  font-size: 1.1em;
+}
+
+.translation {
+  display: inline-block;
+  font-size: 0.9em;
+  padding: 0.25rem 0 0.75rem 0;
+  color: var(--dx-fg-color--dimmed);
+  user-select: none;
+}
+
+.hide {
+  color: transparent;
+}

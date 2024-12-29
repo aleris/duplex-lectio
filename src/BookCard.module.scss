@@ -1,0 +1,45 @@
+.bookCard {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  img {
+    max-width: 120px;
+  }
+
+  .bookTitle {
+    font-size: 1rem;
+    line-height: 1.5rem;
+    padding: 0;
+    margin: 0.5rem 0;
+    text-align: center;
+  }
+
+  .bookAuthor {
+    font-size: 0.9rem;
+    line-height: 1.1rem;
+    padding: 0;
+    margin: 0 0 0.5rem 0;
+    color: var(--dx-fg-color--dimmed);
+    text-align: center;
+  }
+
+  .readStats {
+    font-size: 0.9rem;
+    margin: 0 0 8px 0;
+
+    .readPercent {
+      color: var(--dx-fg-succes-color);
+    }
+
+    .readCount {
+      font-size: 0.7rem;
+      color: var(--dx-fg-color--dimmed);
+    }
+  }
+
+  a {
+    font-size: 0.8rem;
+    text-transform: uppercase;
+  }
+}

@@ -1,0 +1,325 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "I.— THE STORY OF ARION.",
+        "lat": "I.— FABULA ARIONIS."
+      },
+      "words": [
+        ["FABULA", "STORY"],
+        ["ARIONIS", "OF ARION"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "Arion, after travelling abroad, hires a vessel to take him home.",
+        "lat": "Arion, postquam peregre profectus est, navem conducit ut eum domum reducet."
+      },
+      "words": [
+        ["Arion", "Arion"],
+        ["postquam", "after"],
+        ["peregre", "abroad"],
+        ["profectus", "having travelled"],
+        ["est", "is"],
+        ["navem", "vessel"],
+        ["conducit", "hires"],
+        ["ut", "to"],
+        ["eum", "him"],
+        ["domum", "home"],
+        ["reducet", "bring back"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "1.— Arion citharista praeclarus erat. Is diu apud Periandrum Corinthiorum regem versatus erat. Tum in Italiam Siciliamque navigare cupivit. Ingentibus opibus ibi comparatis, Corinthum redire voluit. Itaque Tarento, urbe Italiae, profectus est; ibi navigium hominum Corinthiorum conduxerat.",
+        "eng": "1.— Arion was a famous lyre player. He had spent a long time at the court of Periander, king of the Corinthians. Then he wished to sail to Italy and Sicily. Having acquired great wealth there, he wished to return to Corinth. Therefore, he set out from Tarentum, a city of Italy, where he had hired a ship of Corinthian men."
+      },
+      "words": [
+        ["Arion", "Arion"],
+        ["citharista", "lyre-player"],
+        ["praeclarus", "famous"],
+        ["erat", "was"],
+        ["Is", "He"],
+        ["diu", "long"],
+        ["apud", "at"],
+        ["Periandrum", "Periander"],
+        ["Corinthiorum", "of the Corinthians"],
+        ["regem", "king"],
+        ["versatus", "spent"],
+        ["erat", "was"],
+        ["Tum", "Then"],
+        ["in", "to"],
+        ["Italiam", "Italy"],
+        ["Siciliamque", "and Sicily"],
+        ["navigare", "to sail"],
+        ["cupivit", "wished"],
+        ["Ingentibus", "Great"],
+        ["opibus", "wealth"],
+        ["ibi", "there"],
+        ["comparatis", "acquired"],
+        ["Corinthum", "Corinth"],
+        ["redire", "to return"],
+        ["voluit", "wished"],
+        ["Itaque", "Therefore"],
+        ["Tarento", "from Tarentum"],
+        ["urbe", "city"],
+        ["Italiae", "of Italy"],
+        ["profectus", "set out"],
+        ["est", "is"],
+        ["ibi", "there"],
+        ["navigium", "ship"],
+        ["hominum", "of men"],
+        ["Corinthiorum", "Corinthian"],
+        ["conduxerat", "hired"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "The sailors form a plan to rob and murder him.",
+        "lat": "Nautae consilium faciunt ut eum spolient et interficiant."
+      },
+      "words": [
+        ["Nautae", "Sailors"],
+        ["consilium", "plan"],
+        ["faciunt", "make"],
+        ["ut", "to"],
+        ["eum", "him"],
+        ["spolient", "rob"],
+        ["et", "and"],
+        ["interficiant", "kill"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "2.— Hi autem eum in mare proiicere constituerunt; pecunia enim potiri cupiebant. Tum vero Arion consilium intellexit. Tristis ad preces confugit. Pecunia omni nautis oblata, vitam deprecatus est. Nautae vero precibus viri non commoti, mortem ei statim minati sunt.",
+        "eng": "2.— These, however, decided to throw him into the sea; for they desired to seize the money. Then indeed Arion understood their plan. He sadly resorted to pleas. Offering all his money to the sailors, he begged for his life. But the sailors, unmoved by the man's prayers, immediately threatened him with death."
+      },
+      "words": [
+        ["Hi", "These"],
+        ["autem", "however"],
+        ["eum", "him"],
+        ["in", "into"],
+        ["mare", "sea"],
+        ["proiicere", "to throw"],
+        ["constituerunt", "decided"],
+        ["pecunia", "money"],
+        ["enim", "for"],
+        ["potiri", "to seize"],
+        ["cupiebant", "desired"],
+        ["Tum", "Then"],
+        ["vero", "indeed"],
+        ["Arion", "Arion"],
+        ["consilium", "plan"],
+        ["intellexit", "understood"],
+        ["Tristis", "Sadly"],
+        ["ad", "to"],
+        ["preces", "pleas"],
+        ["confugit", "resorted"],
+        ["Pecunia", "Money"],
+        ["omni", "all"],
+        ["nautis", "to the sailors"],
+        ["oblata", "offered"],
+        ["vitam", "life"],
+        ["deprecatus", "begged"],
+        ["est", "is"],
+        ["Nautae", "Sailors"],
+        ["vero", "but"],
+        ["precibus", "prayers"],
+        ["viri", "man's"],
+        ["non", "not"],
+        ["commoti", "moved"],
+        ["mortem", "death"],
+        ["ei", "to him"],
+        ["statim", "immediately"],
+        ["minati", "threatened"],
+        ["sunt", "are"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "Arion sings a beautiful song, and leaps overboard.",
+        "lat": "Arion carmen pulchrum canit, et in mare se proiecit."
+      },
+      "words": [
+        ["Arion", "Arion"],
+        ["carmen", "song"],
+        ["pulchrum", "beautiful"],
+        ["canit", "sings"],
+        ["et", "and"],
+        ["in", "into"],
+        ["mare", "sea"],
+        ["se", "himself"],
+        ["proiecit", "threw"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "3.— In has angustias redactus Arion, in puppi stetit, omni ornatu suo indutus. Tum unum e carminibus canere incepit. Nautae suavi carmine capti e puppi mediam in navem concesserunt. Ille omni ornatu indutus, capta cithara, carmen peregit. Cantu peracto in mare se proiecit. Tum nautae Corinthum navigaverunt.",
+        "eng": "3.— Reduced to these straits, Arion stood on the stern, dressed in his full attire. Then he began to sing one of his songs. The sailors, captivated by the sweet song, withdrew from the stern to the middle of the ship. He, clad in his entire attire, having taken up his lyre, completed the song. With the song finished, he threw himself into the sea. Then the sailors sailed to Corinth."
+      },
+      "words": [
+        ["In", "In"],
+        ["has", "these"],
+        ["angustias", "straits"],
+        ["redactus", "reduced"],
+        ["Arion", "Arion"],
+        ["in", "on"],
+        ["puppi", "stern"],
+        ["stetit", "stood"],
+        ["omni", "all"],
+        ["ornatu", "attire"],
+        ["suo", "his"],
+        ["indutus", "dressed"],
+        ["Tum", "Then"],
+        ["unum", "one"],
+        ["e", "of"],
+        ["carminibus", "songs"],
+        ["canere", "to sing"],
+        ["incepit", "began"],
+        ["Nautae", "Sailors"],
+        ["suavi", "sweet"],
+        ["carmine", "song"],
+        ["capti", "captivated"],
+        ["e", "from"],
+        ["puppi", "stern"],
+        ["mediam", "middle"],
+        ["in", "into"],
+        ["navem", "ship"],
+        ["concesserunt", "withdrew"],
+        ["Ille", "He"],
+        ["omni", "all"],
+        ["ornatu", "attire"],
+        ["indutus", "dressed"],
+        ["capta", "having taken"],
+        ["cithara", "lyre"],
+        ["carmen", "song"],
+        ["peregit", "completed"],
+        ["Cantu", "song"],
+        ["peracto", "finished"],
+        ["in", "into"],
+        ["mare", "sea"],
+        ["se", "himself"],
+        ["proiecit", "threw"],
+        ["Tum", "Then"],
+        ["nautae", "sailors"],
+        ["Corinthum", "to Corinth"],
+        ["navigaverunt", "sailed"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "He is miraculously saved by a dolphin.",
+        "lat": "A delphino mirabiliter servatus est."
+      },
+      "words": [
+        ["A", "By"],
+        ["delphino", "dolphin"],
+        ["mirabiliter", "miraculously"],
+        ["servatus", "saved"],
+        ["est", "is"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "4.— Arion autem a delphine exceptus dorso Taenarum delatus est. Egressus in terram, Corinthum cum eodem habitu contendit. Ibi nautarum facta narravit. Periander autem ei credere noluit. Arion igitur in custodia ab eo retentus est.",
+        "eng": "4.— Arion, however, having been taken up by a dolphin, was carried on its back to Taenarum. Upon reaching land, he went to Corinth in the same attire. There he narrated the deeds of the sailors. But Periander did not want to believe him. Therefore, Arion was kept in custody by him."
+      },
+      "words": [
+        ["Arion", "Arion"],
+        ["autem", "however"],
+        ["a", "by"],
+        ["delphine", "dolphin"],
+        ["exceptus", "taken up"],
+        ["dorso", "back"],
+        ["Taenarum", "to Taenarum"],
+        ["delatus", "carried"],
+        ["est", "is"],
+        ["Egressus", "Having reached"],
+        ["in", "in"],
+        ["terram", "land"],
+        ["Corinthum", "to Corinth"],
+        ["cum", "with"],
+        ["eodem", "same"],
+        ["habitu", "attire"],
+        ["contendit", "went"],
+        ["Ibi", "There"],
+        ["nautarum", "of the sailors"],
+        ["facta", "deeds"],
+        ["narravit", "narrated"],
+        ["Periander", "Periander"],
+        ["autem", "but"],
+        ["ei", "him"],
+        ["credere", "believe"],
+        ["noluit", "did not want"],
+        ["Arion", "Arion"],
+        ["igitur", "therefore"],
+        ["in", "in"],
+        ["custodia", "custody"],
+        ["ab", "by"],
+        ["eo", "him"],
+        ["retentus", "kept"],
+        ["est", "is"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "The wicked sailors are detected and punished, and Arion is rewarded.",
+        "lat": "Scelerati nautae deprehenduntur et puniuntur, et Arion praemiatur."
+      },
+      "words": [
+        ["Scelerati", "Wicked"],
+        ["nautae", "sailors"],
+        ["deprehenduntur", "are detected"],
+        ["et", "and"],
+        ["puniuntur", "are punished"],
+        ["et", "and"],
+        ["Arion", "Arion"],
+        ["praemiatur", "is rewarded"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "5.— Interim nautae Corinthum advenerunt. A Periandro interrogati sunt de Arione. Turpissime mentiti sunt omnes. Subito Arion apparuit cum eodem ornatu. Attoniti nautae scelus confitentur. A rege Periandro omnes interfecti sunt, et multum pecuniae Arioni datum est.",
+        "eng": "5.— Meanwhile the sailors arrived at Corinth. They were questioned by Periander about Arion. They all lied most disgracefully. Suddenly Arion appeared in the same attire. The astonished sailors confessed their crime. All were put to death by King Periander, and much money was given to Arion."
+      },
+      "words": [
+        ["Interim", "Meanwhile"],
+        ["nautae", "sailors"],
+        ["Corinthum", "to Corinth"],
+        ["advenerunt", "arrived"],
+        ["A", "By"],
+        ["Periandro", "Periander"],
+        ["interrogati", "questioned"],
+        ["sunt", "are"],
+        ["de", "about"],
+        ["Arione", "Arion"],
+        ["Turpissime", "Most disgracefully"],
+        ["mentiti", "lied"],
+        ["sunt", "are"],
+        ["omnes", "all"],
+        ["Subito", "Suddenly"],
+        ["Arion", "Arion"],
+        ["apparuit", "appeared"],
+        ["cum", "with"],
+        ["eodem", "same"],
+        ["ornatu", "attire"],
+        ["Attoniti", "Astonished"],
+        ["nautae", "sailors"],
+        ["scelus", "crime"],
+        ["confitentur", "confessed"],
+        ["A", "By"],
+        ["rege", "king"],
+        ["Periandro", "Periander"],
+        ["omnes", "all"],
+        ["interfecti", "put to death"],
+        ["sunt", "are"],
+        ["et", "and"],
+        ["multum", "much"],
+        ["pecuniae", "money"],
+        ["Arioni", "to Arion"],
+        ["datum", "given"],
+        ["est", "is"]
+      ]
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "III.—PERSIAN COURIERS.",
+        "lat": "III.—CURSORES PERSICI."
+      },
+      "words": [
+        ["CURSORES", "COURIERS"],
+        ["PERSICI", "PERSIAN"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "120.— Apud Persas, quum aliquid nuntiare volunt, hoc faciunt. Quot dierum est universum iter, tot dispositi et equi et viri in quaque diurna statione parati stant; quos nec imber, nec nox, nec aestus, nec nix impedit quominus suum quisque cursum quam celerrime conficiat. Nempe, qui primus currit, is secundo tradit mandata, secundus tertio; atque sic deinceps, alii atque alii tradita, mandata per singulos transeunt.",
+        "eng": "120.—Among the Persians, when they want to announce something, they do this. As many days as the whole journey takes, so many horses and men are stationed at each daily post, ready; whom neither rain, nor night, nor heat, nor snow prevents from completing each one's course as quickly as possible. Indeed, he who runs first delivers the orders to the second, the second to the third; and thus successively, others hand over the commands, and the orders pass through each one."
+      },
+      "words": [
+        ["Apud", "Among"],
+        ["Persas", "Persians"],
+        ["quum", "when"],
+        ["aliquid", "something"],
+        ["nuntiare", "announce"],
+        ["volunt", "they want"],
+        ["hoc", "this"],
+        ["faciunt", "do"],
+        ["Quot", "As many"],
+        ["dierum", "days"],
+        ["est", "is"],
+        ["universum", "whole"],
+        ["iter", "journey"],
+        ["tot", "so many"],
+        ["dispositi", "stationed"],
+        ["et", "and"],
+        ["equi", "horses"],
+        ["viri", "men"],
+        ["in", "at"],
+        ["quaque", "each"],
+        ["diurna", "daily"],
+        ["statione", "post"],
+        ["parati", "ready"],
+        ["stant", "stand"],
+        ["quos", "whom"],
+        ["nec", "neither"],
+        ["imber", "rain"],
+        ["nox", "night"],
+        ["aestus", "heat"],
+        ["nix", "snow"],
+        ["impedit", "prevents"],
+        ["quominus", "from"],
+        ["suum", "each one's"],
+        ["quisque", "each"],
+        ["cursum", "course"],
+        ["quam", "as"],
+        ["celerrime", "quickly"],
+        ["conficiat", "completes"],
+        ["Nempe", "Indeed"],
+        ["qui", "who"],
+        ["primus", "first"],
+        ["currit", "runs"],
+        ["is", "he"],
+        ["secundo", "to the second"],
+        ["tradit", "delivers"],
+        ["mandata", "orders"],
+        ["tertio", "to the third"],
+        ["atque", "and"],
+        ["sic", "thus"],
+        ["deinceps", "successively"],
+        ["alii", "others"],
+        ["tradita", "hand over"],
+        ["mandata", "commands"],
+        ["per", "through"],
+        ["singulos", "each"],
+        ["transeunt", "pass"]
+      ]
+    }
+  ]
+}

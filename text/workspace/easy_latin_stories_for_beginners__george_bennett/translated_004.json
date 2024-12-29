@@ -1,0 +1,82 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "IV.— AN AFRICAN REGIMENT.",
+        "lat": "IV.— REGIMENTUM AFRICANUM."
+      },
+      "words": [
+        ["REGIMENTUM", "REGIMENT"],
+        ["AFRICANUM", "AFRICAN"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "14.— Aethiopes, pardorum leonumque pellibus amicti, arcus habent praelongos: sagittas vero breves: his pro ferro lapides acuti praefixi sunt. Hastas praeterea habent, his praefixa sunt cornua cervorum: habent etiam clavas nodosas. Corporis dimidium, in pugnam prodeuntes, creta dealbatum habent, dimidium minio pictum. Alii caput tectum habent pelle equina, de capite equi detracta, cum auribus et iuba. Pro scutis gruum pellibus corpora tegunt.",
+        "eng": "14.— The Ethiopians, clothed with the skins of leopards and lions, have long bows and short arrows; to these pointed stones are affixed instead of iron. They also have spears, to these the antlers of stags are fixed; they also have knotted clubs. Half of their body is whitened with chalk, when they advance to battle; half is painted with vermilion. Some have their head covered with a horse's hide, stripped from the head of the horse, with ears and mane. Instead of shields, they cover their bodies with crane skins."
+      },
+      "words": [
+        ["Aethiopes", "Ethiopians"],
+        ["pardorum", "of leopards"],
+        ["leonumque", "and lions"],
+        ["pellibus", "skins"],
+        ["amicti", "clothed"],
+        ["arcus", "bows"],
+        ["habent", "have"],
+        ["praelongos", "long"],
+        ["sagittas", "arrows"],
+        ["vero", "indeed"],
+        ["breves", "short"],
+        ["his", "to these"],
+        ["pro", "instead of"],
+        ["ferro", "iron"],
+        ["lapides", "stones"],
+        ["acuti", "pointed"],
+        ["praefixi", "affixed"],
+        ["sunt", "are"],
+        ["Hastas", "spears"],
+        ["praeterea", "moreover"],
+        ["habent", "have"],
+        ["his", "to these"],
+        ["praefixa", "fixed"],
+        ["sunt", "are"],
+        ["cornua", "horns"],
+        ["cervorum", "of stags"],
+        ["habent", "have"],
+        ["etiam", "also"],
+        ["clavas", "clubs"],
+        ["nodosas", "knotted"],
+        ["Corporis", "of body"],
+        ["dimidium", "half"],
+        ["in", "in"],
+        ["pugnam", "battle"],
+        ["prodeuntes", "advancing"],
+        ["creta", "chalk"],
+        ["dealbatum", "whitened"],
+        ["habent", "have"],
+        ["dimidium", "half"],
+        ["minio", "with vermilion"],
+        ["pictum", "painted"],
+        ["Alii", "some"],
+        ["caput", "head"],
+        ["tectum", "covered"],
+        ["habent", "have"],
+        ["pelle", "hide"],
+        ["equina", "horse"],
+        ["de", "from"],
+        ["capite", "head"],
+        ["equi", "of the horse"],
+        ["detracta", "stripped"],
+        ["cum", "with"],
+        ["auribus", "ears"],
+        ["et", "and"],
+        ["iuba", "mane"],
+        ["Pro", "instead of"],
+        ["scutis", "shields"],
+        ["gruum", "of crane"],
+        ["corpore", "bodies"],
+        ["tegunt", "cover"]
+      ]
+    }
+  ]
+}

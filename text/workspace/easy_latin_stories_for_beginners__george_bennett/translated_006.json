@@ -1,0 +1,692 @@
+```json
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "VI.— THE STORY OF ATYS.",
+        "lat": "VI.— FABULA AYI"
+      },
+      "words": [
+        ["FABULA", "STORY"],
+        ["AYI", "ATYS"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "16.— Croeso, Lydiae regi, filius erat, nomine Atys. Hunc Croesus in somnio vidit, ferrea cuspide traiectum et cruore conspersum. Expergefactus ille, domi filium retinet; deinde iacula et hastas abdit in area.",
+        "eng": "16.— To Croesus, king of Lydia, there was a son named Atys. Croesus saw him in a dream, pierced by an iron spear and sprinkled with blood. Upon awakening, he keeps his son at home; then he hides javelins and spears in the storeroom."
+      },
+      "words": [
+        ["Croeso", "to Croesus"],
+        ["Lydiae", "of Lydia"],
+        ["regi", "king"],
+        ["filius", "son"],
+        ["erat", "was"],
+        ["nomine", "named"],
+        ["Atys", "Atys"],
+        ["Hunc", "This"],
+        ["Croesus", "Croesus"],
+        ["somnio", "dream"],
+        ["vidit", "saw"],
+        ["ferrea", "iron"],
+        ["cuspide", "spear"],
+        ["traiectum", "pierced"],
+        ["et", "and"],
+        ["cruore", "blood"],
+        ["conspersum", "sprinkled"],
+        ["Expergefactus", "Awakening"],
+        ["ille", "he"],
+        ["domi", "at home"],
+        ["filium", "son"],
+        ["retinet", "keeps"],
+        ["deinde", "then"],
+        ["iacula", "javelins"],
+        ["et", "and"],
+        ["hastas", "spears"],
+        ["abdit", "hides"],
+        ["in", "in"],
+        ["area", "storeroom"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "He purifies a man who comes to him stained with crime.",
+        "lat": "Is hominem, qui scelere maculatus ad eum venit, expiat."
+      },
+      "words": [
+        ["Is", "He"],
+        ["hominem", "man"],
+        ["qui", "who"],
+        ["scelere", "crime"],
+        ["maculatus", "stained"],
+        ["ad", "to"],
+        ["eum", "him"],
+        ["venit", "comes"],
+        ["expiat", "purifies"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "17.— Interim Sardes vir advenit obstrictus scelere. Eum Croesus expiavit, et benigne accepit. Tum eum percontatur his verbis : ‘Quis es? quem virum occidisti!’",
+        "eng": "17.— Meanwhile, a man bound by crime arrived in Sardis. Croesus purified him and received him kindly. Then he questioned him with these words: 'Who are you? Whom did you kill?'"
+      },
+      "words": [
+        ["Interim", "Meanwhile"],
+        ["Sardes", "Sardis"],
+        ["vir", "man"],
+        ["advenit", "arrived"],
+        ["obstrictus", "bound"],
+        ["scelere", "by crime"],
+        ["Eum", "Him"],
+        ["Croesus", "Croesus"],
+        ["expiavit", "purified"],
+        ["et", "and"],
+        ["benigne", "kindly"],
+        ["accepit", "received"],
+        ["Tum", "Then"],
+        ["eum", "him"],
+        ["percontatur", "questioned"],
+        ["his", "these"],
+        ["verbis", "words"],
+        ["Quis", "Who"],
+        ["es", "are"],
+        ["quem", "whom"],
+        ["virum", "man"],
+        ["occidisti", "did kill"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "The stranger tells his story — Croesus receives him as a friend.",
+        "lat": "Hospes fabulam suam narrat — Croesus eum tamquam amicum excipit."
+      },
+      "words": [
+        ["Hospes", "Stranger"],
+        ["fabulam", "story"],
+        ["suam", "his"],
+        ["narrat", "tells"],
+        ["Croesus", "Croesus"],
+        ["eum", "him"],
+        ["tamquam", "as"],
+        ["amicum", "friend"],
+        ["excipit", "receives"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "18.— Respondit hospes talia: ‘O rex, Gordiae sum filius, est autem mihi nomen Adrasto. Fratrem meum invitus occidi. Adsum a patre eiectus, rebus omnibus destitutus.’ Tum Croesus inquit: ‘Ex viris amicis oriundus es, et ad amicos venisti.’ Ita ille in Croesi aedibus vitam agebat.",
+        "eng": "18.— The stranger replied as follows: 'O king, I am the son of Gordias, and my name is Adrastus. I involuntarily killed my brother. I am expelled by my father and destitute of all things.' Then Croesus said: 'You are descended from friendly men and you have come to friends.' Thus he lived in Croesus' house."
+      },
+      "words": [
+        ["Respondit", "Replied"],
+        ["hospes", "stranger"],
+        ["talia", "as follows"],
+        ["O", "O"],
+        ["rex", "king"],
+        ["Gordiae", "Gordias"],
+        ["sum", "I am"],
+        ["filius", "son"],
+        ["est", "is"],
+        ["autem", "but"],
+        ["mihi", "to me"],
+        ["nomen", "name"],
+        ["Adrasto", "Adrastus"],
+        ["Fratrem", "Brother"],
+        ["meum", "my"],
+        ["invitus", "involuntarily"],
+        ["occidi", "killed"],
+        ["Adsum", "I am"],
+        ["a", "by"],
+        ["patre", "father"],
+        ["eiectus", "expelled"],
+        ["rebus", "things"],
+        ["omnibus", "all"],
+        ["destitutus", "destitute"],
+        ["Tum", "Then"],
+        ["Croesus", "Croesus"],
+        ["inquit", "said"],
+        ["Ex", "From"],
+        ["viris", "men"],
+        ["amicis", "friendly"],
+        ["oriundus", "descended"],
+        ["es", "are"],
+        ["et", "and"],
+        ["ad", "to"],
+        ["amicos", "friends"],
+        ["venisti", "have come"],
+        ["Ita", "Thus"],
+        ["ille", "he"],
+        ["in", "in"],
+        ["Croesi", "Croesus'"],
+        ["aedibus", "house"],
+        ["vitam", "life"],
+        ["agebat", "lived"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "A huge wild boar ravages the country.",
+        "lat": "Immensus aper patriam vastat."
+      },
+      "words": [
+        ["Immensus", "Huge"],
+        ["aper", "boar"],
+        ["patriam", "country"],
+        ["vastat", "ravages"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "19.— Per idem tempus in monte Olympo aper exstitit mira magnitudine. Hic Mysorum arva vastabat.",
+        "eng": "19.— At the same time, on Mount Olympus, a boar of amazing size appeared. It was laying waste to the fields of the Mysians."
+      },
+      "words": [
+        ["Per", "During"],
+        ["idem", "the same"],
+        ["tempus", "time"],
+        ["in", "on"],
+        ["monte", "mount"],
+        ["Olympo", "Olympus"],
+        ["aper", "boar"],
+        ["exstitit", "appeared"],
+        ["mira", "amazing"],
+        ["magnitudine", "size"],
+        ["Hic", "This"],
+        ["Mysorum", "Mysians"],
+        ["arva", "fields"],
+        ["vastabat", "was laying waste"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "The people beg Croesus to send his son to kill it.",
+        "lat": "Populus Croesum orat ut filium suum mittat ad eam occidendam."
+      },
+      "words": [
+        ["Populus", "People"],
+        ["Croesum", "Croesus"],
+        ["orat", "begs"],
+        ["ut", "in order that"],
+        ["filium", "son"],
+        ["suum", "his"],
+        ["mittat", "send"],
+        ["ad", "to"],
+        ["eam", "it"],
+        ["occidendam", "to kill"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "20.— Mysorum legati ad Croesum venere haec dicentes: ‘Apparuit, o rex, in regione nostra immanis magnitudinis aper. Hic agrestia opera omnia corrumpit. Mitte filium tuum et delectos iuvenes canesque; nam beluam e terra nostra tollere volumus.'",
+        "eng": "20.— Ambassadors of the Mysians came to Croesus saying these things: 'A boar of immense size has appeared, O king, in our region. This creature destroys all rural works. Send your son, chosen young men, and dogs; for we want to remove the beast from our land.'"
+      },
+      "words": [
+        ["Mysorum", "Mysians"],
+        ["legati", "ambassadors"],
+        ["ad", "to"],
+        ["Croesum", "Croesus"],
+        ["venere", "came"],
+        ["haec", "these"],
+        ["dicentes", "saying"],
+        ["Apparuit", "Appeared"],
+        ["o", "O"],
+        ["rex", "king"],
+        ["in", "in"],
+        ["regione", "region"],
+        ["nostra", "our"],
+        ["immanis", "immense"],
+        ["magnitudinis", "size"],
+        ["aper", "boar"],
+        ["Hic", "This"],
+        ["agrestia", "rural"],
+        ["opera", "works"],
+        ["omnia", "all"],
+        ["corrumpit", "destroys"],
+        ["Mitte", "Send"],
+        ["filium", "son"],
+        ["tuum", "your"],
+        ["et", "and"],
+        ["delectos", "chosen"],
+        ["iuvenes", "young men"],
+        ["canesque", "and dogs"],
+        ["nam", "for"],
+        ["beluam", "beast"],
+        ["e", "from"],
+        ["terra", "land"],
+        ["nostra", "our"],
+        ["tollere", "to remove"],
+        ["volumus", "we want"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "Croesus refuses.",
+        "lat": "Croesus recusat."
+      },
+      "words": [
+        ["Croesus", "Croesus"],
+        ["recusat", "refuses"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "21.— Haec illis precantibus Croesus, somnium recordatus, ita respondit: ‘Filii quidem mei ne amplius feceritis mentionem. Non enim illum vobiscum emittere possum. Lydorum autem delectam manum canesque mittam.'",
+        "eng": "21.— To these requesting people, Croesus, recalling the dream, thus answered: 'Do not make any further mention of my son. For I cannot send him with you. However, I will send a chosen band of Lydians and dogs.'"
+      },
+      "words": [
+        ["Haec", "These"],
+        ["illis", "to them"],
+        ["precantibus", "praying"],
+        ["Croesus", "Croesus"],
+        ["somnium", "dream"],
+        ["recordatus", "recalling"],
+        ["ita", "thus"],
+        ["respondit", "answered"],
+        ["Filii", "Of my son"],
+        ["quidem", "indeed"],
+        ["mei", "my"],
+        ["ne", "not"],
+        ["amplius", "further"],
+        ["feceritis", "make"],
+        ["mentionem", "mention"],
+        ["Non", "Not"],
+        ["enim", "for"],
+        ["illum", "him"],
+        ["vobiscum", "with you"],
+        ["emittere", "send"],
+        ["possum", "I can"],
+        ["Lydorum", "Lydians"],
+        ["autem", "however"],
+        ["delectam", "chosen"],
+        ["manum", "band"],
+        ["canesque", "and dogs"],
+        ["mittam", "I will send"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "Atys implores his father to let him go.",
+        "lat": "Atys orat patrem ut sibi abire permittat."
+      },
+      "words": [
+        ["Atys", "Atys"],
+        ["orat", "implores"],
+        ["patrem", "father"],
+        ["ut", "to"],
+        ["sibi", "himself"],
+        ["abire", "to go"],
+        ["permittat", "let"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "22.— Auditis Mysorum precibus intervenit Atys. Patrem movere his verbis conatur: ‘Antehac, o pater, hoc mihi honestissimum et nobilissimum visum fuit, bello et venatione gloriam parare. Ne igitur me domi retinueris. Quis tandem esse videbor civibus? Qualis videbor uxori?’",
+        "eng": "22.— Upon hearing the requests of the Mysians, Atys intervened. He tried to persuade his father with these words: 'Before this, O father, it seemed to me most honorable and noble to gain glory in war and hunting. Do not therefore keep me at home. What, then, will I seem to the citizens? What will I seem to my wife?'"
+      },
+      "words": [
+        ["Auditis", "Upon hearing"],
+        ["Mysorum", "Mysians"],
+        ["precibus", "requests"],
+        ["intervenit", "intervened"],
+        ["Atys", "Atys"],
+        ["Patrem", "Father"],
+        ["movere", "persuade"],
+        ["his", "with these"],
+        ["verbis", "words"],
+        ["conatur", "he tries"],
+        ["Antehac", "Before this"],
+        ["o", "O"],
+        ["pater", "father"],
+        ["hoc", "this"],
+        ["mihi", "to me"],
+        ["honestissimum", "most honorable"],
+        ["et", "and"],
+        ["nobilissimum", "most noble"],
+        ["visum", "seemed"],
+        ["fuit", "it was"],
+        ["bello", "in war"],
+        ["et", "and"],
+        ["venatione", "hunting"],
+        ["gloriam", "glory"],
+        ["parare", "to gain"],
+        ["Ne", "Do not"],
+        ["igitur", "therefore"],
+        ["me", "me"],
+        ["domi", "at home"],
+        ["retinueris", "keep"],
+        ["Quis", "What"],
+        ["tandem", "then"],
+        ["esse", "to be"],
+        ["videbor", "will I seem"],
+        ["civibus", "to the citizens"],
+        ["Qualis", "What kind"],
+        ["videbor", "will I seem"],
+        ["uxori", "to my wife"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "Croesus gives his reasons for refusing.",
+        "lat": "Croesus causas recusationis suae dat."
+      },
+      "words": [
+        ["Croesus", "Croesus"],
+        ["causas", "reasons"],
+        ["recusationis", "for refusing"],
+        ["suae", "his"],
+        ["dat", "gives"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "23.— Itaque Croesus talia respondit: ‘Mi fili, in somnio nuper te cuspide ferrea interfectum vidi. Ob hanc caussam domi te custodio.’",
+        "eng": "23.— Therefore, Croesus replied such: 'My son, in a dream I recently saw you killed by an iron spear. For this reason, I keep you at home.'"
+      },
+      "words": [
+        ["Itaque", "Therefore"],
+        ["Croesus", "Croesus"],
+        ["talia", "such"],
+        ["respondit", "replied"],
+        ["Mi", "My"],
+        ["fili", "son"],
+        ["in", "in"],
+        ["somnio", "dream"],
+        ["nuper", "recently"],
+        ["te", "you"],
+        ["cuspide", "spear"],
+        ["ferrea", "iron"],
+        ["interfectum", "killed"],
+        ["vidi", "I saw"],
+        ["Ob", "For"],
+        ["hanc", "this"],
+        ["caussam", "reason"],
+        ["domi", "at home"],
+        ["te", "you"],
+        ["custodio", "I keep"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "Atys urges him to let him go, and gives an explanation of the dream.",
+        "lat": "Atys eum ut abire sinat instat, somnii explicationem dat."
+      },
+      "words": [
+        ["Atys", "Atys"],
+        ["eum", "him"],
+        ["ut", "to"],
+        ["abire", "to go"],
+        ["sinat", "let"],
+        ["instat", "urges"],
+        ["somnii", "dream"],
+        ["explicationem", "explanation"],
+        ["dat", "gives"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "24.— Rursus adolescens ita locutus est: ‘Ferrea cuspide me traiectum vidisti. At apro quaenam sunt manus, quaeve ferrea cuspis? Nihil dictum est de iniuria a dentibus suscepta. Quare abire me patere, mi pater.’",
+        "eng": "24.— Again, the young man spoke thus: 'You saw me pierced by an iron spear. But what are the hands or iron spear of a boar? Nothing is said about injury sustained from teeth. So allow me to go, my father.'"
+      },
+      "words": [
+        ["Rursus", "Again"],
+        ["adolescens", "young man"],
+        ["ita", "thus"],
+        ["locutus", "spoke"],
+        ["est", "he is"],
+        ["Ferrea", "Iron"],
+        ["cuspide", "spear"],
+        ["me", "me"],
+        ["traiectum", "pierced"],
+        ["vidisti", "you saw"],
+        ["At", "But"],
+        ["apro", "boar"],
+        ["quaenam", "what"],
+        ["sunt", "are"],
+        ["manus", "hands"],
+        ["quaeve", "or"],
+        ["cuspis", "spear"],
+        ["Nihil", "Nothing"],
+        ["dictum", "said"],
+        ["est", "is"],
+        ["de", "about"],
+        ["iniuria", "injury"],
+        ["a", "from"],
+        ["dentibus", "teeth"],
+        ["suscepta", "sustained"],
+        ["Quare", "So"],
+        ["abire", "to go"],
+        ["me", "me"],
+        ["patere", "allow"],
+        ["mi", "my"],
+        ["pater", "father"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "Croesus at length gives way.",
+        "lat": "Croesus tandem succedit."
+      },
+      "words": [
+        ["Croesus", "Croesus"],
+        ["tandem", "at length"],
+        ["succedit", "gives way"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "25.— Tum Croesus: ‘Fili,’ ait, ‘me vincis, sententiam somnii declarans. Itaque veniam tibi do venatum exeundi.’",
+        "eng": "25.— Then Croesus: 'Son,' he said, 'you have persuaded me by explaining the dream. Therefore, I allow you to go out to the hunt.'"
+      },
+      "words": [
+        ["Tum", "Then"],
+        ["Croesus", "Croesus"],
+        ["Fili", "Son"],
+        ["ait", "said"],
+        ["me", "me"],
+        ["vincis", "you have persuaded"],
+        ["sententiam", "meaning"],
+        ["somnii", "of the dream"],
+        ["declarans", "explaining"],
+        ["Itaque", "Therefore"],
+        ["veniam", "allowance"],
+        ["tibi", "to you"],
+        ["do", "I give"],
+        ["venatum", "hunt"],
+        ["exeundi", "to go out"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "And gives him in charge to Adrastus.",
+        "lat": "Et tradit eum Adraste custodiendum."
+      },
+      "words": [
+        ["Et", "And"],
+        ["tradit", "gives"],
+        ["eum", "him"],
+        ["Adraste", "to Adrastus"],
+        ["custodiendum", "in charge"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "26.— His dictis, Adrastum advocatum ita allocutus est: ‘Adraste, ego te calamitate obstrictum expiavi, et in meas aedes recepi. Nunc ergo, debes enim de me bene mereri, custos sis filii mei venatum exeuntis.’ Respondit Adrastus: 'Paratus sum exsequi mandatum. Filius tuus, o rex, custode me, incolumis redibit.’",
+        "eng": "26.— Having said these things, he addressed Adrastus as follows: 'Adrastus, I have purified you from the calamity and received you into my house. Now, therefore, as you ought to deserve well of me, be the guardian of my son going to the hunt.' Adrastus replied: 'I am ready to carry out the order. Your son, O king, will return safely under my protection.'"
+      },
+      "words": [
+        ["His", "These"],
+        ["dictis", "having been said"],
+        ["Adrastum", "Adrastus"],
+        ["advocatum", "having been called"],
+        ["ita", "thus"],
+        ["allocutus", "addressed"],
+        ["est", "is"],
+        ["Adraste", "Adrastus"],
+        ["ego", "I"],
+        ["te", "you"],
+        ["calamitate", "from calamity"],
+        ["obstrictum", "bound"],
+        ["expiavi", "have purified"],
+        ["et", "and"],
+        ["in", "into"],
+        ["meas", "my"],
+        ["aedes", "house"],
+        ["recepi", "I have received"],
+        ["Nunc", "Now"],
+        ["ergo", "therefore"],
+        ["debes", "you ought"],
+        ["enim", "indeed"],
+        ["de", "of"],
+        ["me", "me"],
+        ["bene", "well"],
+        ["mereri", "to deserve"],
+        ["custos", "guardian"],
+        ["sis", "be"],
+        ["filii", "of son"],
+        ["mei", "my"],
+        ["venatum", "hunt"],
+        ["exeuntis", "going"],
+        ["Respondit", "Replied"],
+        ["Adrastus", "Adrastus"],
+        ["Paratus", "Ready"],
+        ["sum", "I am"],
+        ["exsequi", "to carry out"],
+        ["mandatum", "order"],
+        ["Filius", "Son"],
+        ["tuus", "your"],
+        ["o", "O"],
+        ["rex", "king"],
+        ["custode", "protection"],
+        ["me", "my"],
+        ["incolumis", "safely"],
+        ["redibit", "will return"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "Adrastus kills Atys by accident, and fulfils the dream.",
+        "lat": "Adrastus involuntarily Atyn occidit, ac somnium complet."
+      },
+      "words": [
+        ["Adrastus", "Adrastus"],
+        ["involuntarily", "involuntarily"],
+        ["Atyn", "Atys"],
+        ["occidit", "kills"],
+        ["ac", "and"],
+        ["somnium", "dream"],
+        ["complet", "fulfils"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "27.— Proficiscuntur igitur cum delectis iuvenibus canibusque. Beluam inventam iaculis adoriuntur. Casu Adrastus Croesi filium ferit. Itaque ille, cuspide ictus, somnii monitum explet.",
+        "eng": "27.— They set out, therefore, with chosen young men and dogs. They attack the found beast with javelins. By chance, Adrastus strikes Croesus' son. Thus he, struck by a spear, fulfills the dream's warning."
+      },
+      "words": [
+        ["Proficiscuntur", "They set out"],
+        ["igitur", "therefore"],
+        ["cum", "with"],
+        ["delectis", "chosen"],
+        ["iuvenibus", "young men"],
+        ["canibusque", "and dogs"],
+        ["Beluam", "Beast"],
+        ["inventam", "found"],
+        ["iaculis", "with javelins"],
+        ["adoriuntur", "they attack"],
+        ["Casu", "By chance"],
+        ["Adrastus", "Adrastus"],
+        ["Croesi", "Croesus'"],
+        ["filium", "son"],
+        ["ferit", "strikes"],
+        ["Itaque", "Thus"],
+        ["ille", "he"],
+        ["cuspide", "by spear"],
+        ["ictus", "struck"],
+        ["somnii", "dream"],
+        ["monitum", "warning"],
+        ["explet", "fulfills"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "Croesus pardons him but he commits suicide.",
+        "lat": "Croesus eum ignoscit sed ipse mortem sibi consciscit."
+      },
+      "words": [
+        ["Croesus", "Croesus"],
+        ["eum", "him"],
+        ["ignoscit", "pardons"],
+        ["sed", "but"],
+        ["ipse", "he himself"],
+        ["mortem", "death"],
+        ["sibi", "to himself"],
+        ["consciscit", "commits"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "28.— Croesus, filii morte nuntiata, consternatus est. Adrastus sese tradidit Croeso. ‘Interfice me,’ dixit, ‘super cadavere filii.’ Illi Croesus: ‘Ignosco tibi, Adraste. Illud invitus fecisti. Non tu auctor es huius mali, sed deorum aliquis. Hoc mihi somnium iam pridem significavit.’ Adrastus autem se ipse super busto iugulavit. Croesus vero, filio orbatus, duos annos ingenti in luctu remansit.",
+        "eng": "28.— Croesus, upon hearing of his son's death, was alarmed. Adrastus surrendered himself to Croesus. 'Kill me,' he said, 'over the corpse of your son.' Croesus replied, 'I forgive you, Adrastus. You did it unwillingly. You are not to blame for this evil, but some god. This had been foretold to me by the dream long ago.' However, Adrastus killed himself over the tomb. Croesus, deprived of his son, remained in great mourning for two years."
+      },
+      "words": [
+        ["Croesus", "Croesus"],
+        ["filii", "of son"],
+        ["morte", "death"],
+        ["nuntiata", "announced"],
+        ["consternatus", "alarmed"],
+        ["est", "is"],
+        ["Adrastus", "Adrastus"],
+        ["sese", "himself"],
+        ["tradidit", "surrendered"],
+        ["Croeso", "to Croesus"],
+        ["Interfice", "Kill"],
+        ["me", "me"],
+        ["dixit", "said"],
+        ["super", "over"],
+        ["cadavere", "corpse"],
+        ["filii", "of son"],
+        ["Illi", "To him"],
+        ["Croesus", "Croesus"],
+        ["Ignosco", "I forgive"],
+        ["tibi", "you"],
+        ["Adraste", "Adrastus"],
+        ["Illud", "That"],
+        ["invitus", "unwillingly"],
+        ["fecisti", "you did"],
+        ["Non", "Not"],
+        ["tu", "you"],
+        ["auctor", "to blame"],
+        ["es", "are"],
+        ["huius", "this"],
+        ["mali", "evil"],
+        ["sed", "but"],
+        ["deorum", "of the gods"],
+        ["aliquis", "some"],
+        ["Hoc", "This"],
+        ["mihi", "to me"],
+        ["somnium", "dream"],
+        ["iam", "already"],
+        ["pridem", "long ago"],
+        ["significavit", "foretold"],
+        ["Adrastus", "Adrastus"],
+        ["autem", "however"],
+        ["se", "himself"],
+        ["ipse", "he"],
+        ["super", "over"],
+        ["busto", "tomb"],
+        ["iugulavit", "killed"],
+        ["Croesus", "Croesus"],
+        ["vero", "indeed"],
+        ["filio", "of son"],
+        ["orbatus", "deprived"],
+        ["duos", "two"],
+        ["annos", "years"],
+        ["ingenti", "great"],
+        ["in", "in"],
+        ["luctu", "mourning"],
+        ["remansit", "remained"]
+      ]
+    }
+  ]
+}
+```

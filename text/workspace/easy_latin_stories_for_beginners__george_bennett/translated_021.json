@@ -1,0 +1,69 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "XXI.— SOLON’S PRECEPTS.",
+        "lat": "XXI.— SOLONIS PRAECEPTA."
+      },
+      "words": [
+        ["SOLONIS", "SOLON'S"],
+        ["PRAECEPTA", "PRECEPTS"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "90.— Solon iuvenes haec praecepta docuisse dicitur. ‘Fidem pluris quam iusiurandum habetote: ne unquam mentiti sitis: rebus magnis operam date; ne amicitias ocius contraxeritis, contractas ne absolveritis; parere imperio edocti, ipsi aliis imperate. Ne suavissima consilia dederitis, sed optima; duci parete rationi: cum malis habitare nolite: deos colitote, patres matresque ne neglexeritis.’",
+        "eng": "90.— Solon is said to have taught the youth these precepts. ‘Hold faith more important than an oath: never lie: give attention to great matters; do not form friendships too hastily and do not break those you have formed; having learned to obey authority, command others yourselves. Do not give the sweetest advice, but the best; follow reason; do not live with wicked people: worship the gods, do not neglect your father and mother.’"
+      },
+      "words": [
+        ["Solon", "Solon"],
+        ["iuvenes", "youth"],
+        ["haec", "these"],
+        ["praecepta", "precepts"],
+        ["docuisse", "to have taught"],
+        ["dicitur", "is said"],
+        ["Fidem", "faith"],
+        ["pluris", "more important"],
+        ["quam", "than"],
+        ["iusiurandum", "oath"],
+        ["habetote", "hold"],
+        ["ne", "not"],
+        ["unquam", "ever"],
+        ["mentiti", "lie"],
+        ["sitis", "you may be"],
+        ["rebus", "matters"],
+        ["magnis", "great"],
+        ["operam", "attention"],
+        ["date", "give"],
+        ["amicitias", "friendships"],
+        ["ocius", "too hastily"],
+        ["contraxeritis", "form"],
+        ["contractas", "formed"],
+        ["absolveritis", "break"],
+        ["parere", "to obey"],
+        ["imperio", "authority"],
+        ["edocti", "having learned"],
+        ["ipsi", "yourselves"],
+        ["aliis", "others"],
+        ["imperate", "command"],
+        ["suavissima", "sweetest"],
+        ["consilia", "advice"],
+        ["dederitis", "give"],
+        ["sed", "but"],
+        ["optima", "best"],
+        ["duci", "follow"],
+        ["parete", "obey"],
+        ["rationi", "reason"],
+        ["cum", "with"],
+        ["malis", "wicked"],
+        ["habitare", "live"],
+        ["nolite", "do not"],
+        ["deos", "gods"],
+        ["colitote", "worship"],
+        ["patres", "father"],
+        ["matresque", "and mother"],
+        ["neglexeritis", "neglect"]
+      ]
+    }
+  ]
+}

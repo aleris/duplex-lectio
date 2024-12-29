@@ -1,0 +1,63 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "XX.— A DISTINCTION WITHOUT A DIFFERENCE.",
+        "lat": "XX.— DISTINCTIO SINE DIFFERENTIA."
+      },
+      "words": [
+        ["DISTINCTIO", "DISTINCTION"],
+        ["SINE", "WITHOUT"],
+        ["DIFFERENTIA", "DIFFERENCE"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "89.— Alexander, Macedoniae rex, latronem captum his verbis interrogavit: ‘Quo tandem iure mare lacessis?’ Latro nihil timens respondit: ‘Ego et tu eodem iure utimur; unam autem parvam navem habeo; latro igitur vocor: tu autem magnis classibus et exercitibus praees; itaque victor vocaris.’",
+        "eng": "89.— Alexander, king of Macedonia, asked the captured robber with these words: 'By what right do you harass the sea?' The robber, fearing nothing, replied: 'You and I use the same right; however, I have one small ship; therefore I am called a robber: you, however, command large fleets and armies; thus you are called a victor.'"
+      },
+      "words": [
+        ["Alexander", "Alexander"],
+        ["Macedoniae", "of Macedonia"],
+        ["rex", "king"],
+        ["latronem", "robber"],
+        ["captum", "captured"],
+        ["his", "these"],
+        ["verbis", "words"],
+        ["interrogavit", "asked"],
+        ["Quo", "by what"],
+        ["tandem", "finally"],
+        ["iure", "right"],
+        ["mare", "sea"],
+        ["lacessis", "harass"],
+        ["Latro", "robber"],
+        ["nihil", "nothing"],
+        ["timens", "fearing"],
+        ["respondit", "replied"],
+        ["Ego", "I"],
+        ["et", "and"],
+        ["tu", "you"],
+        ["eodem", "same"],
+        ["jure", "right"],
+        ["utimur", "use"],
+        ["unam", "one"],
+        ["autem", "however"],
+        ["parvam", "small"],
+        ["navem", "ship"],
+        ["habeo", "have"],
+        ["latro", "robber"],
+        ["igitur", "therefore"],
+        ["vocor", "am called"],
+        ["tu", "you"],
+        ["magnis", "large"],
+        ["classibus", "fleets"],
+        ["et", "and"],
+        ["exercitibus", "armies"],
+        ["praees", "command"],
+        ["itaque", "thus"],
+        ["victor", "victor"],
+        ["vocaris", "are called"]
+      ]
+    }
+  ]
+}

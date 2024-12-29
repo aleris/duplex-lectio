@@ -1,0 +1,91 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "lat": "II.— THE HABITS OF THE MASSAGETAE.",
+        "eng": "II.—MOS MASSAGETARUM."
+      },
+      "words": [
+        ["MOS", "HABITS"],
+        ["MASSAGETARUM", "OF THE MASSAGETAE"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "6.— Utuntur Massagetae et vestimento et vitae ratione simili Scytharum. Ex equis pugnant; arcu et hastis utuntur. Ad omnia auro utuntur aut aere. Ad hastas, ad sagittarum cuspides aere utuntur; ad capitis ornatum, et ad lumborum cingula, auro. Argentum et ferrum in eorum terra non reperiuntur; sed aeris et auri est immensa copia.",
+        "eng": "6.— The Massagetae use clothing and a way of life similar to the Scythians. They fight on horseback; they use bows and lances. For everything they use gold or bronze. For lances, for the points of arrows, they use bronze; for ornament of the head, and for belts, gold. Silver and iron are not found in their land; but there is an immense abundance of bronze and gold."
+      },
+      "words": [
+        ["Utuntur", "use"],
+        ["Massagetae", "Massagetae"],
+        ["et", "and"],
+        ["vestimento", "clothing"],
+        ["vitae", "life"],
+        ["ratione", "way"],
+        ["simili", "similar"],
+        ["Scytharum", "of the Scythians"],
+        ["Ex", "From"],
+        ["equis", "horses"],
+        ["pugnant", "fight"],
+        ["arcu", "bow"],
+        ["hastis", "lances"],
+        ["auro", "gold"],
+        ["aere", "bronze"],
+        ["hastas", "lances"],
+        ["sagittarum", "arrows"],
+        ["cuspides", "points"],
+        ["capitis", "head"],
+        ["ornatum", "ornament"],
+        ["lumborum", "belts"],
+        ["cingula", "girdles"],
+        ["Argentum", "Silver"],
+        ["ferrum", "iron"],
+        ["eorum", "their"],
+        ["terra", "land"],
+        ["reperiuntur", "found"],
+        ["sed", "but"],
+        ["aeris", "bronze"],
+        ["immensa", "immense"],
+        ["copia", "abundance"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "Senes interficiunt propinqui, et pecudes cum iis; cocta carne deinde epulantur. Terra autem condunt morbo mortuos. Sementem nullam faciunt: cibus eorum ex pecoribus, piscibus, lacte, constat. Deorum unum Solem colunt: huic equos immolant.",
+        "eng": "The elderly are killed by relatives, along with cattle; then they feast on the cooked flesh. But they bury those who die of disease. They sow no crops: their food consists of livestock, fish, and milk. They worship only the Sun among the gods: to it they sacrifice horses."
+      },
+      "words": [
+        ["Senes", "The elderly"],
+        ["interficiunt", "kill"],
+        ["propinqui", "relatives"],
+        ["pecudes", "cattle"],
+        ["iis", "with them"],
+        ["cocta", "cooked"],
+        ["carne", "flesh"],
+        ["deinde", "then"],
+        ["epulantur", "feast"],
+        ["Terra", "land"],
+        ["condunt", "bury"],
+        ["morbo", "disease"],
+        ["mortuos", "the dead"],
+        ["Sementem", "crops"],
+        ["nullam", "no"],
+        ["faciunt", "make"],
+        ["cibus", "food"],
+        ["eorum", "their"],
+        ["ex", "from"],
+        ["pecoribus", "livestock"],
+        ["piscibus", "fish"],
+        ["lacte", "milk"],
+        ["constat", "consists"],
+        ["Deorum", "of the gods"],
+        ["unum", "one"],
+        ["Solem", "Sun"],
+        ["colunt", "worship"],
+        ["huic", "to it"],
+        ["equos", "horses"],
+        ["immolant", "sacrifice"]
+      ]
+    }
+  ]
+}

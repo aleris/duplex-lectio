@@ -1,0 +1,151 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "VII.— LIBYA.",
+        "lat": "VII.— LIBYA."
+      },
+      "words": [
+        ["LIBYA", "LIBYA"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "A curious kind of oxen.",
+        "lat": "Mirum genus boum."
+      },
+      "words": [
+        ["Mirum", "Curious"],
+        ["genus", "kind"],
+        ["boum", "of oxen"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "125.— In Libya habitant homines, quibus nomen est Garamantibus. Horum in terra nascuntur boves qui retro gradientes pasci dicuntur. Hoc autem faciunt, quod cornua habent in anterius curvata; qua de caussa retro gradientes pascuntur: nam progredientes pasci non possunt, quoniam, priusquam progredi possint, cornua in terram impinguntur. Ab aliis bobus nil differunt, nisi hoc ipso, et corii crassitudine, duritieque.",
+        "eng": "125.— In Libya dwell people called the Garamantes. In their land are born oxen said to graze walking backwards. They do this because they have horns curving forwards; therefore, they graze walking backwards: for they cannot graze walking forwards, as their horns strike the ground before they can step forward. They differ in nothing from other oxen except in this and the thickness and hardness of their hide."
+      },
+      "words": [
+        ["In", "In"],
+        ["Libya", "Libya"],
+        ["habitant", "dwell"],
+        ["homines", "people"],
+        ["quibus", "whom"],
+        ["nomen", "name"],
+        ["est", "is"],
+        ["Garamantibus", "Garamantes"],
+        ["Horum", "Their"],
+        ["terra", "land"],
+        ["nascuntur", "are born"],
+        ["boves", "oxen"],
+        ["qui", "who"],
+        ["retro", "backwards"],
+        ["gradientes", "walking"],
+        ["pasci", "to graze"],
+        ["dicuntur", "are said"],
+        ["Hoc", "This"],
+        ["autem", "however"],
+        ["faciunt", "do"],
+        ["quod", "because"],
+        ["cornua", "horns"],
+        ["habent", "have"],
+        ["in", "in"],
+        ["anterius", "forwards"],
+        ["curvata", "curving"],
+        ["qua", "therefore"],
+        ["de", "because of"],
+        ["caussa", "reason"],
+        ["retro", "backwards"],
+        ["gradientes", "walking"],
+        ["pascuntur", "graze"],
+        ["nam", "for"],
+        ["progredientes", "walking forwards"],
+        ["pasci", "to graze"],
+        ["non", "not"],
+        ["possunt", "can"],
+        ["quoniam", "as"],
+        ["priusquam", "before"],
+        ["progredi", "step forward"],
+        ["possint", "can"],
+        ["cornua", "horns"],
+        ["in", "on"],
+        ["terram", "ground"],
+        ["impinguntur", "strike"],
+        ["Ab", "from"],
+        ["aliis", "other"],
+        ["bobus", "oxen"],
+        ["nil", "nothing"],
+        ["differunt", "differ"],
+        ["nisi", "except"],
+        ["hoc", "this"],
+        ["ipso", "itself"],
+        ["et", "and"],
+        ["corii", "hide"],
+        ["crassitudine", "thickness"],
+        ["duritieque", "and hardness"]
+      ]
+    },
+    {
+      "text": {
+        "eng": "The cave-dwellers.",
+        "lat": "Incolae antrorum."
+      },
+      "words": [
+        ["Incolae", "dwellers"],
+        ["antrorum", "of caves"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "126.— Iidem Garamantes quadrigis venantur Troglodytas Aethiopas. Troglodytae autem vocantur, quod in antris vivunt; troglus autem dicitur antrum. Sunt enim hi Troglodytae pedibus pernicissimi omnium hominum, de quibus unquam audivimus. Vescuntur autem Troglodytae serpentibus atque lacertis, et eius modi reptilibus: sermone vero utuntur nulli alii simili, sed strident veluti noctuae.",
+        "eng": "126.— The same Garamantes hunt the Ethiopian Troglodytes with chariots. They are called Troglodytes because they live in caves; for a cave is called troglus. These Troglodytes are indeed the swiftest on foot of all people we have ever heard of. The Troglodytes feed on serpents and lizards, and such reptiles: they use speech unlike any other, but screech like owls."
+      },
+      "words": [
+        ["Iidem", "The same"],
+        ["Garamantes", "Garamantes"],
+        ["quadrigis", "chariots"],
+        ["venantur", "hunt"],
+        ["Troglodytas", "Troglodytes"],
+        ["Aethiopas", "Ethiopians"],
+        ["autem", "however"],
+        ["vocantur", "are called"],
+        ["quod", "because"],
+        ["in", "in"],
+        ["antris", "caves"],
+        ["vivunt", "live"],
+        ["troglus", "cave"],
+        ["dicit", "is called"],
+        ["antrum", "cave"],
+        ["Sunt", "are"],
+        ["enim", "for"],
+        ["hi", "these"],
+        ["pedibus", "on foot"],
+        ["pernicissimi", "swiftest"],
+        ["omnium", "of all"],
+        ["hominum", "people"],
+        ["de", "about"],
+        ["quibus", "whom"],
+        ["unquam", "ever"],
+        ["audivimus", "we have heard"],
+        ["Vescuntur", "feed on"],
+        ["serpentibus", "serpents"],
+        ["atque", "and"],
+        ["lacertis", "lizards"],
+        ["et", "and"],
+        ["eius", "such"],
+        ["modi", "kind"],
+        ["reptilibus", "reptiles"],
+        ["sermone", "speech"],
+        ["vero", "indeed"],
+        ["utuntur", "use"],
+        ["nulli", "none"],
+        ["alii", "other"],
+        ["simili", "similar"],
+        ["sed", "but"],
+        ["strident", "screech"],
+        ["veluti", "like"],
+        ["noctuae", "owls"]
+      ]
+    }
+  ]
+}

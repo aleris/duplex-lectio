@@ -1,0 +1,650 @@
+```json
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "IX.— ANECDOTES.",
+        "lat": "IX.— ANECDOTA."
+      },
+      "words": [
+        ["ANECDOTA", "ANECDOTES"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "Contempt of pain.",
+        "eng": "Contempt of pain."
+      },
+      "words": [
+        ["Contempt", "Contempt"],
+        ["of", "of"],
+        ["pain", "pain"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "34.— Pueri Spartani non gemunt flagellis lacerati. Adolescentes Spartae decertant manibus, pedibus, unguibus, dentibus denique, maluntque interfici, quam vinci. Puer etiam Spartanus dicitur in sinu vestis vulpem celasse, et bestiae dentibus necatus esse, nec gemitum edidisse: praeclarum enim apud Spartanos habebatur aliquid clam abstrahere; deprehendi vero, turpissimum.",
+        "eng": "34.— Spartan boys do not groan when lashed with whips. The youths of Sparta fight fiercely with fists, feet, nails, finally teeth, and prefer to be killed rather than conquered. It is said that even a Spartan boy concealed a fox in his garment and was killed by the beast's teeth, but did not utter a groan: for among the Spartans, stealing something secretly was considered admirable; however, being caught, most shameful."
+      },
+      "words": [
+        ["Pueri", "Boys"],
+        ["Spartani", "Spartan"],
+        ["non", "not"],
+        ["gemunt", "groan"],
+        ["flagellis", "with whips"],
+        ["lacerati", "lashed"],
+        ["Adolescentes", "Youths"],
+        ["Spartae", "of Sparta"],
+        ["decertant", "fight fiercely"],
+        ["manibus", "with hands"],
+        ["pedibus", "with feet"],
+        ["unguiibus", "with nails"],
+        ["dentibus", "with teeth"],
+        ["denique", "finally"],
+        ["maluntque", "and prefer"],
+        ["interfici", "to be killed"],
+        ["quam", "than"],
+        ["vinci", "to be conquered"],
+        ["Puer", "Boy"],
+        ["etiam", "even"],
+        ["Spartanus", "Spartan"],
+        ["dicitur", "is said"],
+        ["in", "in"],
+        ["sinu", "garment"],
+        ["vestis", "cloth"],
+        ["vulpem", "fox"],
+        ["celasse", "to have concealed"],
+        ["bestiae", "beast"],
+        ["dentibus", "teeth"],
+        ["necatus", "killed"],
+        ["esse", "to be"],
+        ["nec", "not"],
+        ["gemitum", "groan"],
+        ["edidisse", "to have emitted"],
+        ["praeclarum", "admirable"],
+        ["enim", "for"],
+        ["apud", "among"],
+        ["Spartanos", "Spartans"],
+        ["habebatur", "was considered"],
+        ["aliquid", "something"],
+        ["clam", "secretly"],
+        ["abstrahere", "to steal"],
+        ["deprehendi", "being caught"],
+        ["vero", "however"],
+        ["turpissimum", "most shameful"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "The trial of Sophocles.",
+        "eng": "The trial of Sophocles."
+      },
+      "words": [
+        ["The", "The"],
+        ["trial", "trial"],
+        ["of", "of"],
+        ["Sophocles", "Sophocles"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "35.— Sophocles ad summam senectutem tragoedias fecit: videbatur autem rem familiarem negligere propter studium. Itaque a filiis in ius vocatus est. Hi iudices orabant his verbis: ‘Patrem desipientem a re familiari removete.’ Tum senex dicitur tragoediam illam praeclaram, Oedipum Coloneum, recitasse iudicibus, et quaesisse, ‘Num hoc carmen desipientis videtur?’ Hoc rectitato sententiis iudicum est liberatus.",
+        "eng": "35.— Sophocles wrote tragedies up to extreme old age: however, he seemed to neglect his affairs owing to his study. Therefore, he was summoned by his children to court. They appealed to the judges with these words: ‘Remove our irrational father from managing affairs.’ Then it is said that the old man recited that famous tragedy, Oedipus at Colonus, to the judges, and asked, ‘Does this poem seem the work of a madman?’ The poem having been recited, he was released by the judges' verdict."
+      },
+      "words": [
+        ["Sophocles", "Sophocles"],
+        ["ad", "up to"],
+        ["summam", "extreme"],
+        ["senectutem", "old age"],
+        ["tragoedias", "tragedies"],
+        ["fecit", "made"],
+        ["videbatur", "seemed"],
+        ["autem", "however"],
+        ["rem", "affairs"],
+        ["familiarem", "personal"],
+        ["negligere", "to neglect"],
+        ["propter", "owing to"],
+        ["studium", "study"],
+        ["Itaque", "Therefore"],
+        ["a", "by"],
+        ["filiis", "children"],
+        ["in", "to"],
+        ["ius", "court"],
+        ["vocatus", "summoned"],
+        ["est", "was"],
+        ["Hi", "They"],
+        ["iudices", "judges"],
+        ["orabant", "appealed"],
+        ["his", "with these"],
+        ["verbis", "words"],
+        ["Patrem", "Father"],
+        ["desipientem", "irrational"],
+        ["a", "from"],
+        ["re", "affairs"],
+        ["familari", "management"],
+        ["removete", "remove"],
+        ["Tum", "Then"],
+        ["senex", "old man"],
+        ["dicitur", "is said"],
+        ["tragoediam", "tragedy"],
+        ["illam", "that"],
+        ["praeclaram", "famous"],
+        ["Oedipum", "Oedipus"],
+        ["Coloneum", "at Colonus"],
+        ["recitasse", "recited"],
+        ["iudicibus", "to the judges"],
+        ["quaesisse", "to have asked"],
+        ["Num", "Does"],
+        ["hoc", "this"],
+        ["carmen", "poem"],
+        ["desipientis", "of a madman"],
+        ["videtur", "seem"],
+        ["rectitato", "recited"],
+        ["sententiis", "by the verdict"],
+        ["iudicum", "of the judges"],
+        ["est", "is"],
+        ["liberatus", "released"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "Respect paid to age.",
+        "eng": "Respect paid to age."
+      },
+      "words": [
+        ["Respect", "Respect"],
+        ["paid", "paid"],
+        ["to", "to"],
+        ["age", "age"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "36.— Lysander Lacedaemonios hoc dixisse dicitur; ‘Lacedaemone optime vivere possunt senes.’ Nusquam enim tantum tribuitur aetati, nusquam est senectus honoratior. Athenis olim, ludis institutis quidam in theatrum grandis natu venit, nec ei locus datus est a suis civibus; tum ad legatos Lacedaemonios accessit; hi autem omnes consurrexere et seni locum dederunt. Hoc factum probantibus Atheniensibus, unus e legatis dixit, ‘Athenienses quidem sciunt recta facere, sed facere nolunt.’",
+        "eng": "36.— Lysander is said to have remarked to the Lacedaemonians; ‘Elderly people can live best in Sparta.’ Nowhere else is old age given so much respect, nowhere is it more honored. Once, at Athens, when public games were being held, an elderly man came into the theater, and no seat was given to him by his fellow citizens; then he approached the Spartan envoys; they all rose and gave the old man a seat. When the Athenians approved this action, one of the envoys said, ‘Athenians indeed know what is right, but they refuse to do it.’"
+      },
+      "words": [
+        ["Lysander", "Lysander"],
+        ["Lacedaemonios", "to the Lacedaemonians"],
+        ["hoc", "this"],
+        ["dixisse", "to have said"],
+        ["dicitur", "is said"],
+        ["Lacedaemone", "in Sparta"],
+        ["optime", "best"],
+        ["vivere", "to live"],
+        ["possunt", "can"],
+        ["senes", "elderly"],
+        ["Nusquam", "Nowhere"],
+        ["enim", "indeed"],
+        ["tantum", "so much"],
+        ["tribuitur", "is given"],
+        ["aetati", "to age"],
+        ["senectus", "old age"],
+        ["honoratior", "more honored"],
+        ["Athenis", "At Athens"],
+        ["olim", "once"],
+        ["ludis", "games"],
+        ["institutis", "being instituted"],
+        ["quidam", "a certain"],
+        ["in", "in"],
+        ["theatrum", "the theater"],
+        ["grandis", "grand"],
+        ["natu", "in nature"],
+        ["venit", "came"],
+        ["nec", "not"],
+        ["ei", "to him"],
+        ["locus", "seat"],
+        ["datus", "given"],
+        ["suis", "his"],
+        ["civibus", "citizens"],
+        ["tum", "then"],
+        ["ad", "to"],
+        ["legatos", "envoys"],
+        ["Lacedaemonios", "Spartan"],
+        ["accessit", "approached"],
+        ["hi", "they"],
+        ["autem", "however"],
+        ["omnes", "all"],
+        ["consurrexere", "rose up"],
+        ["seni", "to the old man"],
+        ["locum", "seat"],
+        ["dederunt", "gave"],
+        ["hoc", "this"],
+        ["factum", "action"],
+        ["probantibus", "approving"],
+        ["Atheniensibus", "Athenians"],
+        ["unus", "one"],
+        ["e", "of"],
+        ["legatis", "the envoys"],
+        ["dixit", "said"],
+        ["Athenienses", "Athenians"],
+        ["quidem", "indeed"],
+        ["sciunt", "know"],
+        ["recta", "what is right"],
+        ["facere", "to do"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "Diogenes.",
+        "eng": "Diogenes."
+      },
+      "words": [
+        ["Diogenes", "Diogenes"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "37.— Diogenes moriens dixit: ‘Proiicite me, ne in sepulcro posueritis.’ Tum amici: ‘Volucribusne et feris?’ ‘Minime vero,’ inquit, ‘sed telum propter me ponitote: hoc feras a me abigam.’ ‘Quomodo poteris?’ illi responderunt: ‘non enim senties.’ ‘Quid igitur mihi nocebunt ferarum dentes et volucrum rostra, nihil sentienti?’",
+        "eng": "37.— Diogenes, dying, said: ‘Throw me away, do not put me in a tomb.’ Then his friends: ‘To the birds and beasts?’ ‘Certainly not,’ he said, ‘but place a stick next to me, with which I will drive them away.’ ‘How can you do this?’ they replied: ‘For you will not feel anything.’ ‘Then how will the teeth of wild animals and the beaks of birds harm me, when I feel nothing?’"
+      },
+      "words": [
+        ["Diogenes", "Diogenes"],
+        ["moriens", "dying"],
+        ["dixit", "said"],
+        ["Proiicite", "throw"],
+        ["me", "me"],
+        ["ne", "lest"],
+        ["in", "in"],
+        ["sepulcro", "tomb"],
+        ["posueritis", "you put"],
+        ["Tum", "Then"],
+        ["amici", "friends"],
+        ["Volucribusne", "To the birds"],
+        ["et", "and"],
+        ["feris", "beasts"],
+        ["Minime", "Certainly not"],
+        ["vero", "indeed"],
+        ["inquit", "he said"],
+        ["sed", "but"],
+        ["telum", "stick"],
+        ["propter", "next to"],
+        ["me", "me"],
+        ["ponitote", "place"],
+        ["hoc", "with this"],
+        ["feras", "wild beasts"],
+        ["a", "from"],
+        ["me", "me"],
+        ["abigam", "I will drive away"],
+        ["Quomodo", "How"],
+        ["poteris", "can you do"],
+        ["illi", "they"],
+        ["responderunt", "answered"],
+        ["non", "not"],
+        ["enim", "indeed"],
+        ["senties", "you will feel"],
+        ["Quid", "Then"],
+        ["igitur", "how"],
+        ["mihi", "to me"],
+        ["nocebunt", "will harm"],
+        ["ferarum", "wild beasts"],
+        ["dentes", "teeth"],
+        ["et", "and"],
+        ["volucrum", "birds"],
+        ["rostra", "beaks"],
+        ["nihil", "nothing"],
+        ["sentienti", "to one feeling"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "Anaxagoras.",
+        "eng": "Anaxagoras."
+      },
+      "words": [
+        ["Anaxagoras", "Anaxagoras"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "38.— Praeclarum fuit responsum illud Anaxagorae philosophi. Is enim, Lampsaci moriens, quaerentibus amicis, ‘Visne in patriam auferri?’ inquit: ‘Minime: undique enim ad Inferos eadem est via.’",
+        "eng": "38.— The answer of the philosopher Anaxagoras was famous. Indeed, he was dying at Lampsacus, and when his friends asked him, ‘Do you want to be carried back home?’ he said: ‘No: for from all places, the road to the underworld is the same.’"
+      },
+      "words": [
+        ["Praeclarum", "Famous"],
+        ["fuit", "was"],
+        ["responsum", "answer"],
+        ["illud", "that"],
+        ["Anaxagorae", "of Anaxagoras"],
+        ["philosophi", "philosopher"],
+        ["Is", "Indeed"],
+        ["enim", "indeed"],
+        ["Lampsaci", "at Lampsacus"],
+        ["moriens", "dying"],
+        ["quaerentibus", "asking"],
+        ["amicis", "friends"],
+        ["Visne", "Do you want"],
+        ["in", "in"],
+        ["patriam", "home"],
+        ["auferri", "to be carried away"],
+        ["inquit", "he said"],
+        ["Minime", "No"],
+        ["undique", "from all"],
+        ["ad", "to"],
+        ["Inferos", "the Underworld"],
+        ["eadem", "the same"],
+        ["via", "road"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "Lysander at Sardis.",
+        "eng": "Lysander at Sardis."
+      },
+      "words": [
+        ["Lysander", "Lysander"],
+        ["at", "at"],
+        ["Sardis", "Sardis"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "39.— Cyrus minor, princeps Persarum praestans ingenio atque imperii gloria, Lysandrum Lacedaemonium, virum summae virtutis, Sardibus olim hospitio excepit. Huic quemdam agrum diligenter cultum ostendit. Miranti autem Lysandro arbores, et humum cultam et bene dispositos ordines, Cyrus respondit: ‘Ego omnia illa disposui: mei sunt ordines; multae etiam illarum arborum mea manu sunt satae.’ Tum Lysander, videns ornatum eius multo auro eximium, dixit: ‘Recte vero te, Cyre, beatum ferunt, virtuti enim tuae divitiae additae sunt.’",
+        "eng": "39.— Cyrus the Younger, a leader of the Persians, distinguished in ability and in glory of command, hosted Lysander the Lacedaemonian, a man of highest virtue, at Sardis one time. He showed him a certain field diligently cultivated. When Lysander admired the trees and the well-cultivated earth and nicely arranged rows, Cyrus replied: ‘I arranged all these: the rows are mine; many of those trees were planted by my own hand.’ Then Lysander, seeing his adornment with much distinguished gold, said: ‘Indeed they truly call you, Cyrus, blessed, for riches have been added to your virtue.’"
+      },
+      "words": [
+        ["Cyrus", "Cyrus"],
+        ["minor", "the Younger"],
+        ["princeps", "leader"],
+        ["Persarum", "of the Persians"],
+        ["praestans", "distinguished"],
+        ["ingenio", "in ability"],
+        ["atque", "and"],
+        ["imperii", "of command"],
+        ["gloria", "in glory"],
+        ["Lysandrum", "Lysander"],
+        ["Lacedaemonium", "Lacedaemonian"],
+        ["virum", "man"],
+        ["summae", "highest"],
+        ["virtutis", "virtue"],
+        ["Sardibus", "at Sardis"],
+        ["olim", "one time"],
+        ["hospitio", "hospitality"],
+        ["excepit", "received"],
+        ["Huic", "To him"],
+        ["quemdam", "a certain"],
+        ["agrum", "field"],
+        ["diligenter", "diligently"],
+        ["cultum", "cultivated"],
+        ["ostendit", "showed"],
+        ["Miranti", "Admiring"],
+        ["autem", "however"],
+        ["Lysandro", "Lysander"],
+        ["arbores", "trees"],
+        ["humum", "earth"],
+        ["cultam", "cultivated"],
+        ["bene", "well"],
+        ["dispositos", "arranged"],
+        ["ordines", "rows"],
+        ["Cyrus", "Cyrus"],
+        ["respondit", "replied"],
+        ["Ego", "I"],
+        ["omnia", "all"],
+        ["illa", "those"],
+        ["disposui", "arranged"],
+        ["mei", "my"],
+        ["sunt", "are"],
+        ["multae", "many"],
+        ["etiam", "even"],
+        ["illarum", "of those"],
+        ["mea", "my own"],
+        ["manu", "hand"],
+        ["sunt", "are"],
+        ["satae", "planted"],
+        ["Tum", "Then"],
+        ["Lysander", "Lysander"],
+        ["videns", "seeing"],
+        ["ornatum", "adornment"],
+        ["eius", "his"],
+        ["multo", "with much"],
+        ["auro", "gold"],
+        ["eximium", "distinguished"],
+        ["dixit", "said"],
+        ["Recte", "Rightly"],
+        ["vero", "indeed"],
+        ["Cyre", "Cyrus"],
+        ["beatum", "blessed"],
+        ["ferunt", "they call"],
+        ["virtuti", "virtue"],
+        ["enim", "for"],
+        ["divitiae", "riches"],
+        ["additae", "added"],
+        ["sunt", "are"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "Contempt of death.",
+        "eng": "Contempt of death."
+      },
+      "words": [
+        ["Contempt", "Contempt"],
+        ["of", "of"],
+        ["death", "death"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "40.— Quam magno animo fuit Theramenes! Olim enim in carcerem ex mandato triginta tyrannorum coniectus, venenum bibit, et reliquum e poculo in vas emisit. Sonitu autem reddito, ridens inquit, ‘hoc pulcro Critiae.’ Critias autem in eum crudelissimus fuerat. Graeci enim in epulis poculum alicui tradituri, eum nominare solent.",
+        "eng": "40.— How great was the spirit of Theramenes! For once, thrown into prison by order of the thirty tyrants, he drank the poison, and poured the remainder from the cup into the vessel. Then, with a sound given, laughing he said, ‘To the beautiful Critias.’ For Critias had been most cruel to him. For the Greeks, when about to pass a cup to someone at banquets, are accustomed to name him."
+      },
+      "words": [
+        ["Quam", "How"],
+        ["magno", "great"],
+        ["animo", "spirit"],
+        ["fuit", "was"],
+        ["Theramenes", "Theramenes"],
+        ["Olim", "Once"],
+        ["enim", "for"],
+        ["in", "into"],
+        ["carcerem", "prison"],
+        ["ex", "by"],
+        ["mandato", "order"],
+        ["triginta", "thirty"],
+        ["tyrannorum", "tyrants"],
+        ["coniectus", "thrown"],
+        ["venenum", "poison"],
+        ["bibit", "drank"],
+        ["et", "and"],
+        ["reliquum", "remainder"],
+        ["e", "from"],
+        ["poculo", "cup"],
+        ["in", "into"],
+        ["vas", "vessel"],
+        ["emisit", "poured"],
+        ["Sonitu", "Sound"],
+        ["autem", "then"],
+        ["reddito", "given"],
+        ["ridens", "laughing"],
+        ["inquit", "said"],
+        ["hoc", "to this"],
+        ["pulcro", "beautiful"],
+        ["Critiae", "to Critias"],
+        ["Critias", "Critias"],
+        ["autem", "however"],
+        ["in", "against"],
+        ["eum", "him"],
+        ["crudelis", "cruel"],
+        ["fuerat", "had been"],
+        ["Graeci", "Greeks"],
+        ["enim", "for"],
+        ["in", "at"],
+        ["epulis", "banquets"],
+        ["poculum", "cup"],
+        ["alicui", "to someone"],
+        ["tradituri", "about to pass"],
+        ["eum", "him"],
+        ["nominare", "to name"],
+        ["solent", "are accustomed"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "Socrates.",
+        "eng": "Socrates."
+      },
+      "words": [
+        ["Socrates", "Socrates"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "41.— In eundem carcerem paucis post annis Socrates iit, eodem scelere iudicum. Qui est igitur eius sermo apud iudices? ‘Lubenter,’ inquit, ‘morti obviam ibo. Alterum enim de duobus fiet: aut sensus omnino omnes mors auferet, aut in alium quendam ex his locis abibimus. Itaque aut somno fruemur, aut cum optimo quoque cive loqui poterimus et versari.’",
+        "eng": "41.— Socrates went to the same prison a few years later, on the same charge by the judges. What then was his speech before the judges? ‘Willingly,’ he said, ‘I will go to meet death. For one of two things will happen: either death will entirely take all senses, or we shall depart to another place. Therefore, we shall enjoy sleep, or we will be able to talk and associate with every best citizen.’"
+      },
+      "words": [
+        ["In", "In"],
+        ["eundem", "the same"],
+        ["carcerem", "prison"],
+        ["paucis", "few"],
+        ["post", "later"],
+        ["annis", "years"],
+        ["Socrates", "Socrates"],
+        ["iit", "went"],
+        ["eodem", "same"],
+        ["scelere", "charge"],
+        ["iudicum", "judges"],
+        ["Qui", "What"],
+        ["est", "was"],
+        ["igitur", "then"],
+        ["eius", "his"],
+        ["sermo", "speech"],
+        ["apud", "to"],
+        ["iudices", "judges"],
+        ["Lubenter", "Willingly"],
+        ["inquit", "he said"],
+        ["morti", "death"],
+        ["obviam", "meet"],
+        ["ibo", "will go"],
+        ["Alterum", "one"],
+        ["enim", "for"],
+        ["de", "of"],
+        ["duobus", "two"],
+        ["fiet", "will happen"],
+        ["aut", "either"],
+        ["sensus", "senses"],
+        ["omnino", "entirely"],
+        ["omnes", "all"],
+        ["mors", "death"],
+        ["auferet", "will take"],
+        ["aut", "or"],
+        ["in", "to"],
+        ["alium", "another"],
+        ["quendam", "place"],
+        ["abibimus", "we shall depart"],
+        ["Itaque", "Therefore"],
+        ["aut", "or"],
+        ["somno", "sleep"],
+        ["fruemur", "we shall enjoy"],
+        ["cum", "with"],
+        ["optimo", "every best"],
+        ["quoque", "citizen"],
+        ["cive", "citizen"],
+        ["loqui", "to talk"],
+        ["poterimus", "we will be able"],
+        ["et", "and"],
+        ["versari", "associate"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "The Spartans.",
+        "eng": "The Spartans."
+      },
+      "words": [
+        ["The", "The"],
+        ["Spartans", "Spartans"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "42.— Pari animo Lacedaemonii Thermopylis ceciderunt. Quid illorum dux Leonidas dicit? 'Pergite animo forti, Lacedaemonii: hodie apud inferos coenabimus.’ Nonne etiam Lacaena pariter fortis fuit? Haec enim, filii morte nuntiata, ‘In hunc finem peperi filium,’ dixit.",
+        "eng": "42.— The Lacedaemonians fell at Thermopylae with equal spirit. What did their leader Leonidas say? ‘March on with a brave heart, Lacedaemonians: today we will dine with the dead.’ Was not even a Spartan woman equally brave? For when notified of her son's death, she said, ‘I bore a son for this purpose.’"
+      },
+      "words": [
+        ["Pari", "With equal"],
+        ["animo", "spirit"],
+        ["Lacedaemonii", "Lacedaemonians"],
+        ["Thermopylis", "Thermopylae"],
+        ["ceciderunt", "fell"],
+        ["Quid", "What"],
+        ["illorum", "their"],
+        ["dux", "leader"],
+        ["Leonidas", "Leonidas"],
+        ["dicit", "said"],
+        ["Pergite", "March on"],
+        ["animo", "heart"],
+        ["forti", "brave"],
+        ["Lacedaemonii", "Lacedaemonians"],
+        ["hodie", "today"],
+        ["apud", "with"],
+        ["inferos", "the dead"],
+        ["coenabimus", "we will dine"],
+        ["Nonne", "Was not"],
+        ["etiam", "also"],
+        ["Lacaena", "Spartan woman"],
+        ["pariter", "equally"],
+        ["fortis", "brave"],
+        ["fuit", "was"],
+        ["Haec", "For"],
+        ["enim", "for"],
+        ["filii", "son's"],
+        ["morte", "death"],
+        ["nuntiata", "notified"],
+        ["In", "for"],
+        ["hunc", "this"],
+        ["finem", "purpose"],
+        ["peperi", "I bore"],
+        ["filium", "son"],
+        ["dixit", "said"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "Theodorus.",
+        "eng": "Theodorus."
+      },
+      "words": [
+        ["Theodorus", "Theodorus"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "43.— Cyrenaeum Theodorum philosophum praeclarissimum nonne miramur? Lysimacho regi crucem minanti, ‘Istis,’ inquit, “ista crudelia minare primoribus tuis: haec ad Theodorum nihil attinent: humi putrescere aut in aere, idem est.’",
+        "eng": "43.— Do we not admire Theodorus the Cyrenaean philosopher as most famous? To Lysimachus the king threatening him with the cross, he said, ‘Threaten these cruel things to your nobles: these things make no difference to Theodorus: to rot on the ground or in the air, it is the same.’"
+      },
+      "words": [
+        ["Cyrenaeum", "Cyrenaean"],
+        ["Theodorum", "Theodorus"],
+        ["philosophum", "philosopher"],
+        ["praeclarissimum", "most famous"],
+        ["nonne", "do we not"],
+        ["miramur", "admire"],
+        ["Lysimacho", "to Lysimachus"],
+        ["regi", "king"],
+        ["crucem", "cross"],
+        ["minanti", "threatening"],
+        ["Istis", "Threaten"],
+        ["inquit", "said"],
+        ["ista", "these"],
+        ["crudelia", "cruel"],
+        ["minare", "things"],
+        ["primoribus", "to your nobles"],
+        ["tuis", "your"],
+        ["haec", "these"],
+        ["ad", "to"],
+        ["Theodorum", "Theodorus"],
+        ["nihil", "nothing"],
+        ["attinent", "pertaining"],
+        ["humi", "on the ground"],
+        ["putrescere", "to rot"],
+        ["aut", "or"],
+        ["in", "in"],
+        ["aere", "air"],
+        ["idem", "the same"],
+        ["est", "is"]
+      ]
+    }
+  ]
+}
+```

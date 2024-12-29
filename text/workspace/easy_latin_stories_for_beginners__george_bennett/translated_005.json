@@ -1,0 +1,75 @@
+{
+  "paragraphs": [
+    {
+      "text": {
+        "eng": "V.— THE EQUIPMENT OF PERSIAN SOLDIERS",
+        "lat": "V.— ARMAMENTA MILITUM PERSICORUM"
+      },
+      "words": [
+        ["ARMAMENTA", "EQUIPMENT"],
+        ["MILITUM", "OF SOLDIERS"],
+        ["PERSICORUM", "PERSIAN"]
+      ]
+    },
+    {
+      "text": {
+        "lat": "15.— Persae hoc modo instructi sunt. In capite pileos gestant; hos tiaras vocant: circa corpus, tunicas manicatas varii coloris, et loricas ferreis squamis in piscium similitudinem: circa crura, braccas: pro clipeis vero, crates vimineas. A tergo suspensas habent pharetras: hastae breves sunt, arcus vero grandes, tela ex arundine: praeterea ad dextrum femur e zona suspensus est pugio.",
+        "eng": "15.— The Persians are equipped in this manner. On their head they wear caps; these they call tiaras: around the body, sleeved tunics of various colors, and breastplates with iron scales resembling fish: around the legs, trousers: instead of shields, wickerwork. On the back they have quivers suspended: the spears are short, the bows indeed large, weapons made of reed: moreover, a dagger is suspended from the belt on the right thigh."
+      },
+      "words": [
+        ["Persae", "Persians"],
+        ["hoc", "this"],
+        ["modo", "manner"],
+        ["instructi", "equipped"],
+        ["sunt", "are"],
+        ["in", "on"],
+        ["capite", "head"],
+        ["pileos", "caps"],
+        ["gestant", "they wear"],
+        ["hos", "these"],
+        ["tiaras", "tiaras"],
+        ["vocant", "call"],
+        ["circa", "around"],
+        ["corpus", "body"],
+        ["tunicas", "tunics"],
+        ["manicatas", "sleeved"],
+        ["varii", "various"],
+        ["coloris", "colors"],
+        ["et", "and"],
+        ["loricas", "breastplates"],
+        ["ferreis", "iron"],
+        ["squamias", "scales"],
+        ["in", "in"],
+        ["piscium", "fish"],
+        ["similitudinem", "resembling"],
+        ["crura", "legs"],
+        ["braccas", "trousers"],
+        ["pro", "instead of"],
+        ["clipeis", "shields"],
+        ["vero", "indeed"],
+        ["crates", "wickerwork"],
+        ["vimineas", "woven"],
+        ["tergo", "back"],
+        ["suspensas", "suspended"],
+        ["habent", "have"],
+        ["pharetras", "quivers"],
+        ["hastae", "spears"],
+        ["breves", "short"],
+        ["arcus", "bows"],
+        ["grandes", "large"],
+        ["tela", "weapons"],
+        ["ex", "made of"],
+        ["arundine", "reed"],
+        ["praeterea", "moreover"],
+        ["ad", "on"],
+        ["dextrum", "right"],
+        ["femur", "thigh"],
+        ["e", "from"],
+        ["zona", "belt"],
+        ["suspensus", "suspended"],
+        ["est", "is"],
+        ["pugio", "dagger"]
+      ]
+    }
+  ]
+}

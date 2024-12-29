@@ -1,0 +1,38 @@
+.appTitle {
+  align-self: center;
+  margin: 50px 0 0 0;
+
+  .text {
+    font-size: 40px;
+    display: flex;
+
+    .wrapper {
+      padding-left: 10px;
+      padding-right: 10px;
+
+      .letter {
+        transform: translateY(-160%);
+      }
+
+      .shadow {
+        transform: scale(1, -1);
+        color: #999;
+        user-select: none;
+      }
+    }
+  }
+
+  .overlay {
+    position: absolute;
+    width: 100%;
+    height: 40px;
+    z-index: 100;
+
+    background: rgb(255, 255, 255);
+    background: linear-gradient(
+                    0deg,
+                    #1e2129ff 0%,
+                    #1e212900 100%
+    );
+  }
+}
